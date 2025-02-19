@@ -1,0 +1,8 @@
+Wed Feb 19 15:41:30 2025 [1740001290362 msec] (183 s) Thread 36 - [NavMeshManager] INFO - Starting building navmesh for area: corellia_city_Silver Villa_player on planet: corellia at: (x:-123.92, y:-5796.08, z:0)
+Wed Feb 19 15:41:30 2025 [1740001290568 msec] (184 s) Thread 37 - [NavMeshManager] INFO - Starting building navmesh for area: screenplay_tatooine_brigand_camp1 on planet: tatooine at: (x:1144, y:-3920, z:0)
+Wed Feb 19 15:41:33 2025 [1740001293537 msec] (187 s) Thread 35 - [NavMeshManager] INFO - Starting building navmesh for area: screenplay_tatooine_brigand_camp2 on planet: tatooine at: (x:1002, y:-3019, z:0)
+Wed Feb 19 15:41:35 2025 [1740001295583 msec] (189 s) Thread 9 - [NavMeshManager] INFO - Done building and setting navmesh for area: screenplay_tatooine_brigand_camp1 on planet: tatooine at: (x:1144, y:-3920, z:0)
+Wed Feb 19 15:41:35 2025 [1740001295583 msec] (189 s) Thread 37 - [NavMeshManager] INFO - Starting building navmesh for area: screenplay_tatooine_brigand_leader_camp on planet: tatooine at: (x:1500, y:-2000, z:0)
+Wed Feb 19 15:41:35 2025 [1740001295663 msec] (189 s) Thread 10 - [NavMeshManager] INFO - Done building and setting navmesh for area: screenplay_tatooine_brigand_camp2 on planet: tatooine at: (x:1002, y:-3019, z:0)
+Wed Feb 19 15:41:37 2025 [1740001297535 msec] (191 s) Thread 6 - [NavMeshManager] INFO - Done building and setting navmesh for area: screenplay_tatooine_brigand_leader_camp on planet: tatooine at: (x:1500, y:-2000, z:0)
+Wed Feb 19 15:41:38 2025 [1740001298853 msec] (192 s) Thread 6 - [NavMeshManager] INFO - Done building and setting navmesh for area: corellia_city_Silver Villa_player on planet: corellia at: (x:-123.92, y:-5796.08, z:0)

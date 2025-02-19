@@ -63,7 +63,7 @@ globalExpMultiplier = 10.0
 craftExpMultiplier = 16.0
 entExpMultiplier = 16.0
 -- Note: jedi will ignore globalExpMultiplier so if you want to adjust, change this value
-jediExpMultiplier = 10.0
+--jediExpMultiplier = 3.0
 
 FRSExpMultiplier = 3.0
 

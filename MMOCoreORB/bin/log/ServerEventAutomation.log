@@ -1,0 +1,33 @@
+Wed Feb 19 15:42:59 2025 [ServerEventAutomation] playerEvent Jinn (account_id: 1, oid: 281475003593187, played: 22h 0m 6s, session: 0s) on corellia at -139 -4725 - playerLoggedIn
+Wed Feb 19 15:43:37 2025 [ServerEventAutomation] playerEvent Randolo (account_id: 50, oid: 281475004481186, played: 1s, session: 0s) on tutorial at 4294 4235 - playerLoggedIn
+Wed Feb 19 15:45:08 2025 [ServerEventAutomation] playerEvent Randolo (account_id: 50, oid: 281475004481186, played: 1m 32s, session: 1m 31s) on tutorial at 4318 4215 - playerLoggedOut
+Wed Feb 19 15:45:13 2025 [ServerEventAutomation] playerEvent Randolo (account_id: 50, oid: 281475004481186, played: 1m 33s, session: 0s) on tutorial at 4318 4215 - playerLoggedIn
+Wed Feb 19 15:48:57 2025 [ServerEventAutomation] playerEvent Randolo (account_id: 50, oid: 281475004481186, played: 5m 17s, session: 3m 43s) on tatooine at 3529 -4808 - playerLoggedOut
+Wed Feb 19 15:49:20 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475004227767, played: 3h 11m 44s, session: 0s) on naboo at 4876 6088 - playerLoggedIn
+Wed Feb 19 15:49:24 2025 [ServerEventAutomation] playerEvent Randolo (account_id: 50, oid: 281475004481186, played: 5m 18s, session: 0s) on tatooine at 3529 -4808 - playerLoggedIn
+Wed Feb 19 15:49:29 2025 [ServerEventAutomation] playerEvent Xarina (account_id: 47, oid: 281475004346703, played: 33m 44s, session: 0s) on talus at 4445 5285 - playerLoggedIn
+Wed Feb 19 15:51:35 2025 [ServerEventAutomation] playerEvent Xarina (account_id: 47, oid: 281475004346703, played: 35m 49s, session: 2m 4s) on talus at 4448 5317 - playerLoggedOut
+Wed Feb 19 15:51:38 2025 [ServerEventAutomation] playerEvent Kyia (account_id: 47, oid: 281475004417928, played: 47m 15s, session: 0s) on naboo at 4875 6064 - playerLoggedIn
+Wed Feb 19 15:52:18 2025 [ServerEventAutomation] playerEvent Edo (account_id: 45, oid: 281475004409125, played: 17m 23s, session: 0s) on tatooine at 1560 3077 - playerLoggedIn
+Wed Feb 19 15:52:35 2025 [ServerEventAutomation] playerEvent Randolo (account_id: 50, oid: 281475004481186, played: 8m 28s, session: 3m 10s) on tatooine at 3523 -4786 - playerLoggedOut
+Wed Feb 19 15:52:45 2025 [ServerEventAutomation] playerEvent Edo (account_id: 45, oid: 281475004409125, played: 17m 49s, session: 26s) on tatooine at 1560 3077 - playerLoggedOut
+Wed Feb 19 15:54:49 2025 [ServerEventAutomation] playerEvent Randolo (account_id: 50, oid: 281475004481186, played: 8m 29s, session: 0s) on tatooine at 3523 -4786 - playerLoggedIn
+Wed Feb 19 15:55:55 2025 [ServerEventAutomation] playerEvent Randolo (account_id: 50, oid: 281475004481186, played: 9m 36s, session: 1m 6s) on tatooine at 3615 -4773 - playerLoggedOut
+Wed Feb 19 15:56:20 2025 [ServerEventAutomation] playerEvent Nice (account_id: 45, oid: 281475004482271, played: 1s, session: 0s) on tutorial at 4532 874 - playerLoggedIn
+Wed Feb 19 16:01:23 2025 [ServerEventAutomation] playerEvent Icelynn (account_id: 46, oid: 281475004408755, played: 41m 58s, session: 0s) on naboo at 4878 6064 - playerLoggedIn
+Wed Feb 19 16:01:27 2025 [ServerEventAutomation] playerEvent Nice (account_id: 45, oid: 281475004482271, played: 5m 5s, session: 5m 4s) on tatooine at 3523 -4803 - playerLoggedOut
+Wed Feb 19 16:08:34 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475004227767, played: 3h 30m 56s, session: 19m 11s) on naboo at 4877 6065 - playerLoggedOut
+Wed Feb 19 16:08:39 2025 [ServerEventAutomation] playerEvent wyatt (account_id: 46, oid: 281475004349354, played: 52m 45s, session: 0s) on naboo at 4868 6065 - playerLoggedIn
+Wed Feb 19 16:13:26 2025 [ServerEventAutomation] playerEvent Kyia (account_id: 47, oid: 281475004417928, played: 1h 9m 2s, session: 21m 47s) on naboo at 4874 6064 - playerLoggedOut
+Wed Feb 19 16:16:17 2025 [ServerEventAutomation] playerEvent Yeshk (account_id: 47, oid: 281475004484491, played: 1s, session: 0s) on tutorial at 2145 657 - playerLoggedIn
+Wed Feb 19 16:19:32 2025 [ServerEventAutomation] playerEvent Girly (account_id: 49, oid: 281475004419622, played: 28m 6s, session: 0s) on naboo at -4958 4119 - playerLoggedIn
+Wed Feb 19 16:21:45 2025 [ServerEventAutomation] playerEvent Yeshk (account_id: 47, oid: 281475004484491, played: 5m 27s, session: 5m 26s) on naboo at 4874 6064 - playerLoggedOut
+Wed Feb 19 16:29:46 2025 [ServerEventAutomation] playerEvent Girly (account_id: 49, oid: 281475004419622, played: 38m 19s, session: 10m 12s) on naboo at -4873 4150 - playerLoggedOut
+Wed Feb 19 16:29:49 2025 [ServerEventAutomation] playerEvent BlazinYou (account_id: 49, oid: 281475004409813, played: 1h 21m 43s, session: 0s) on naboo at 1368 2750 - playerLoggedIn
+Wed Feb 19 16:30:14 2025 [ServerEventAutomation] playerEvent BlazinYou (account_id: 49, oid: 281475004409813, played: 1h 22m 7s, session: 24s) on naboo at 1368 2750 - playerLoggedOut
+Wed Feb 19 16:30:20 2025 [ServerEventAutomation] playerEvent Girly (account_id: 49, oid: 281475004419622, played: 38m 20s, session: 0s) on naboo at -4873 4150 - playerLoggedIn
+Wed Feb 19 16:34:50 2025 [ServerEventAutomation] playerEvent Darklightr (account_id: 44, oid: 281475004485779, played: 1s, session: 0s) on tutorial at 4242 3032 - playerLoggedIn
+Wed Feb 19 16:44:52 2025 [ServerEventAutomation] playerEvent Darklightr (account_id: 44, oid: 281475004485779, played: 10m 2s, session: 10m 1s) on naboo at 5212 6676 - playerLoggedOut
+Wed Feb 19 16:49:59 2025 [ServerEventAutomation] playerEvent Whitelighter (account_id: 44, oid: 281475004486519, played: 1s, session: 0s) on tutorial at 2189 991 - playerLoggedIn
+Wed Feb 19 16:50:28 2025 [ServerEventAutomation] playerEvent Girly (account_id: 49, oid: 281475004419622, played: 58m 26s, session: 20m 6s) on naboo at 4933 -4923 - playerLoggedOut
+Wed Feb 19 16:51:56 2025 [ServerEventAutomation] playerEvent Cia (account_id: 51, oid: 281475004486545, played: 1s, session: 0s) on tutorial at 3267 2139 - playerLoggedIn
