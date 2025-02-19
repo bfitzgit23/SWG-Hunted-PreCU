@@ -11230,4 +11230,206 @@ Wed Feb 19 16:52:25 2025 [1740005545433 msec] (4438 s) Thread 53 - [CreatureObje
 Wed Feb 19 16:52:25 2025 [1740005545433 msec] (4438 s) Thread 53 - [CreatureObject] INFO - Next Position Dist Sq: 5.22136 Player Position: (x:3549.4, y:-4815.64, z:0) Speed: 4.75967
 Wed Feb 19 16:52:25 2025 [1740005545433 msec] (4438 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- parsedSpeed: 4.75967 Teleport position: (x:-13.2132, y:69.8538, z:0.639422)
 Wed Feb 19 16:52:25 2025 [1740005545433 msec] (4438 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- PASSED
-Wed Feb 19 16:52:25 2025 [1740005545433 msec] (4438 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests -- PASSED -- Distance: 5.
+Wed Feb 19 16:52:25 2025 [1740005545433 msec] (4438 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests -- PASSED -- Distance: 5.22136
+Wed Feb 19 16:52:26 2025 [1740005546724 msec] (4440 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests -- Parent Transform with newWorldPosition X = 3561.91 Z = 5.63942 Y = -4815.25 Distance Length = 58.8104
+Wed Feb 19 16:52:26 2025 [1740005546724 msec] (4440 s) Thread 53 - [CreatureObject] INFO - Next Position Dist Sq: 7.29558 Player Position: (x:3554.61, y:-4815.35, z:0) Speed: 5.65111
+Wed Feb 19 16:52:26 2025 [1740005546724 msec] (4440 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- parsedSpeed: 5.65111 Teleport position: (x:-13.0249, y:64.6359, z:0.639426)
+Wed Feb 19 16:52:26 2025 [1740005546724 msec] (4440 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- FAILED -- changeBuffer - Max Allowed Speed: 5.53728 Parsed Speed: 5.65111
+Wed Feb 19 16:52:27 2025 [1740005547714 msec] (4441 s) Thread 31 - [BaseClient 67.149.159.121:50541] INFO - initializeCommon
+Wed Feb 19 16:52:27 2025 [1740005547714 msec] (4441 s) Thread 31 - [LoginClient 67.149.159.121] INFO - CheckupTime = 2000
+Wed Feb 19 16:52:27 2025 [1740005547714 msec] (4441 s) Thread 31 - [LoginServer] INFO - client connected from '67.149.159.121:50541'
+Wed Feb 19 16:52:27 2025 [1740005547742 msec] (4441 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests -- Parent Transform with newWorldPosition X = 3556.95 Z = 5.63943 Y = -4815.32 Distance Length = 63.6479
+Wed Feb 19 16:52:27 2025 [1740005547743 msec] (4441 s) Thread 53 - [CreatureObject] INFO - Next Position Dist Sq: 2.33831 Player Position: (x:3554.61, y:-4815.35, z:0) Speed: 2.30149
+Wed Feb 19 16:52:27 2025 [1740005547743 msec] (4441 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- parsedSpeed: 2.30149 Teleport position: (x:-13.0249, y:64.6359, z:0.639426)
+Wed Feb 19 16:52:27 2025 [1740005547743 msec] (4441 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- PASSED
+Wed Feb 19 16:52:27 2025 [1740005547743 msec] (4441 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests -- PASSED -- Distance: 2.33831
+Wed Feb 19 16:52:28 2025 [1740005548893 msec] (4442 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests -- Parent Transform with newWorldPosition X = 3564.86 Z = 5.63942 Y = -4815.21 Distance Length = 55.9355
+Wed Feb 19 16:52:28 2025 [1740005548893 msec] (4442 s) Thread 53 - [CreatureObject] INFO - Next Position Dist Sq: 7.9143 Player Position: (x:3556.95, y:-4815.32, z:0) Speed: 6.882
+Wed Feb 19 16:52:28 2025 [1740005548893 msec] (4442 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- parsedSpeed: 6.882 Teleport position: (x:-13.0412, y:62.2975, z:0.639426)
+Wed Feb 19 16:52:28 2025 [1740005548893 msec] (4442 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- FAILED -- changeBuffer - Max Allowed Speed: 5.53728 Parsed Speed: 6.882
+Wed Feb 19 16:52:52 2025 [1740005572450 msec] (4465 s) Thread 31 - [LoginClient 67.149.159.121] INFO - Disconnecting client, hasError = false
+Wed Feb 19 16:52:52 2025 [1740005572450 msec] (4465 s) Thread 31 - [LoginClient 67.149.159.121] INFO - Deleted Session
+Wed Feb 19 16:53:08 2025 [1740005588805 msec] (4482 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests -- Parent Transform with newWorldPosition X = 3557.26 Z = 5.63942 Y = -4814.66 Distance Length = 63.1957
+Wed Feb 19 16:53:08 2025 [1740005588805 msec] (4482 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests -- PASSED -- Distance: 0.735426
+Wed Feb 19 16:53:09 2025 [1740005589971 msec] (4483 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests -- Parent Transform with newWorldPosition X = 3558.03 Z = 5.63942 Y = -4808.17 Distance Length = 61.3636
+Wed Feb 19 16:53:09 2025 [1740005589971 msec] (4483 s) Thread 53 - [CreatureObject] INFO - Next Position Dist Sq: 6.53264 Player Position: (x:3557.26, y:-4814.66, z:0) Speed: 5.60261
+Wed Feb 19 16:53:09 2025 [1740005589971 msec] (4483 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- parsedSpeed: 5.60261 Teleport position: (x:-12.382, y:61.9709, z:0.639425)
+Wed Feb 19 16:53:09 2025 [1740005589971 msec] (4483 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- FAILED -- changeBuffer - Max Allowed Speed: 5.53728 Parsed Speed: 5.60261
+Wed Feb 19 16:53:11 2025 [1740005591082 msec] (4484 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests -- Parent Transform with newWorldPosition X = 3557.49 Z = 5.63942 Y = -4809.49 Distance Length = 62.0658
+Wed Feb 19 16:53:11 2025 [1740005591082 msec] (4484 s) Thread 53 - [CreatureObject] INFO - Next Position Dist Sq: 5.16908 Player Position: (x:3557.26, y:-4814.66, z:0) Speed: 4.65683
+Wed Feb 19 16:53:11 2025 [1740005591082 msec] (4484 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- parsedSpeed: 4.65683 Teleport position: (x:-12.382, y:61.9709, z:0.639425)
+Wed Feb 19 16:53:11 2025 [1740005591082 msec] (4484 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- PASSED
+Wed Feb 19 16:53:11 2025 [1740005591082 msec] (4484 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests -- PASSED -- Distance: 5.16908
+Wed Feb 19 16:53:12 2025 [1740005592561 msec] (4486 s) Thread 54 - [CreatureObject] INFO - checkSpeedHackTests -- Parent Transform with newWorldPosition X = 3268.59 Z = 0.00152889 Y = 2139.65 Distance Length = 2.84103
+Wed Feb 19 16:53:12 2025 [1740005592561 msec] (4486 s) Thread 54 - [CreatureObject] INFO - checkSpeedHackTests -- PASSED -- Distance: 0.14932
+Wed Feb 19 16:53:12 2025 [1740005592674 msec] (4486 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests -- Parent Transform with newWorldPosition X = 3557.8 Z = 5.63942 Y = -4802.22 Distance Length = 61.1895
+Wed Feb 19 16:53:12 2025 [1740005592674 msec] (4486 s) Thread 53 - [CreatureObject] INFO - Next Position Dist Sq: 7.27977 Player Position: (x:3557.49, y:-4809.49, z:0) Speed: 4.57272
+Wed Feb 19 16:53:12 2025 [1740005592674 msec] (4486 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- parsedSpeed: 4.57272 Teleport position: (x:-7.22315, y:61.6441, z:0.639424)
+Wed Feb 19 16:53:12 2025 [1740005592674 msec] (4486 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- PASSED
+Wed Feb 19 16:53:12 2025 [1740005592675 msec] (4486 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests -- PASSED -- Distance: 7.27977
+Wed Feb 19 16:53:13 2025 [1740005593919 msec] (4487 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests -- Parent Transform with newWorldPosition X = 3558.19 Z = 5.63942 Y = -4793.23 Distance Length = 61.2955
+Wed Feb 19 16:53:13 2025 [1740005593920 msec] (4487 s) Thread 53 - [CreatureObject] INFO - Next Position Dist Sq: 9.00013 Player Position: (x:3557.8, y:-4802.22, z:0) Speed: 7.22902
+Wed Feb 19 16:53:13 2025 [1740005593920 msec] (4487 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- parsedSpeed: 7.22902 Teleport position: (x:0.0420671, y:61.1895, z:0.639421)
+Wed Feb 19 16:53:13 2025 [1740005593920 msec] (4487 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- PASSED
+Wed Feb 19 16:53:13 2025 [1740005593920 msec] (4487 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests -- PASSED -- Distance: 9.00013
+Wed Feb 19 16:53:14 2025 [1740005594767 msec] (4488 s) Thread 54 - [CreatureObject] INFO - checkSpeedHackTests -- Parent Transform with newWorldPosition X = 3269.03 Z = 0.00214424 Y = 2140.81 Distance Length = 2.35153
+Wed Feb 19 16:53:14 2025 [1740005594767 msec] (4488 s) Thread 54 - [CreatureObject] INFO - Next Position Dist Sq: 1.24193 Player Position: (x:3268.59, y:2139.65, z:0) Speed: 0.56298
+Wed Feb 19 16:53:14 2025 [1740005594767 msec] (4488 s) Thread 54 - [CreatureObject] INFO - checkPlayerSpeedTest -- parsedSpeed: 0.56298 Teleport position: (x:1.59478, y:-2.3512, z:0.00152889)
+Wed Feb 19 16:53:14 2025 [1740005594767 msec] (4488 s) Thread 54 - [CreatureObject] INFO - checkPlayerSpeedTest -- PASSED
+Wed Feb 19 16:53:14 2025 [1740005594767 msec] (4488 s) Thread 54 - [CreatureObject] INFO - checkSpeedHackTests -- PASSED -- Distance: 1.24193
+Wed Feb 19 16:53:15 2025 [1740005595019 msec] (4488 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests -- Parent Transform with newWorldPosition X = 3557.89 Z = 5.63942 Y = -4786.56 Distance Length = 62.7996
+Wed Feb 19 16:53:15 2025 [1740005595019 msec] (4488 s) Thread 53 - [CreatureObject] INFO - Next Position Dist Sq: 6.67887 Player Position: (x:3558.19, y:-4793.23, z:0) Speed: 6.07723
+Wed Feb 19 16:53:15 2025 [1740005595019 msec] (4488 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- parsedSpeed: 6.07723 Teleport position: (x:9.02472, y:60.6275, z:0.639422)
+Wed Feb 19 16:53:15 2025 [1740005595019 msec] (4488 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- PASSED
+Wed Feb 19 16:53:15 2025 [1740005595019 msec] (4488 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests -- PASSED -- Distance: 6.67887
+Wed Feb 19 16:53:16 2025 [1740005596231 msec] (4489 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests -- Parent Transform with newWorldPosition X = 3557.58 Z = 5.63951 Y = -4772.07 Distance Length = 67.9178
+Wed Feb 19 16:53:16 2025 [1740005596232 msec] (4489 s) Thread 53 - [CreatureObject] INFO - Next Position Dist Sq: 14.4907 Player Position: (x:3557.89, y:-4786.56, z:0) Speed: 11.956
+Wed Feb 19 16:53:16 2025 [1740005596232 msec] (4489 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- parsedSpeed: 11.956 Teleport position: (x:15.7015, y:60.805, z:0.639422)
+Wed Feb 19 16:53:16 2025 [1740005596232 msec] (4489 s) Thread 53 - [CreatureObject] INFO - 
+checkPlayerSpeedTest -- FAILED -- Due to timeStamp diff: 2904 with Max Allowed Speed: 10.0778 Parsed Speed: 11.956
+
+Wed Feb 19 16:53:16 2025 [1740005596593 msec] (4490 s) Thread 54 - [CreatureObject] INFO - checkSpeedHackTests -- Parent Transform with newWorldPosition X = 3268.99 Z = 0.00183769 Y = 2140.43 Distance Length = 2.53757
+Wed Feb 19 16:53:16 2025 [1740005596593 msec] (4490 s) Thread 54 - [CreatureObject] INFO - checkSpeedHackTests -- PASSED -- Distance: 0.381948
+Wed Feb 19 16:53:17 2025 [1740005597276 msec] (4490 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests -- Parent Transform with newWorldPosition X = 3559.17 Z = 5.6394 Y = -4779.65 Distance Length = 63.5378
+Wed Feb 19 16:53:17 2025 [1740005597276 msec] (4490 s) Thread 53 - [CreatureObject] INFO - Next Position Dist Sq: 7.02799 Player Position: (x:3557.89, y:-4786.56, z:0) Speed: 6.74471
+Wed Feb 19 16:53:17 2025 [1740005597276 msec] (4490 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- parsedSpeed: 6.74471 Teleport position: (x:15.7015, y:60.805, z:0.639422)
+Wed Feb 19 16:53:17 2025 [1740005597276 msec] (4490 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- PASSED
+Wed Feb 19 16:53:17 2025 [1740005597276 msec] (4490 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests -- PASSED -- Distance: 7.02799
+Wed Feb 19 16:53:18 2025 [1740005598393 msec] (4491 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests -- Parent Transform with newWorldPosition X = 3557.01 Z = 5.63946 Y = -4774.55 Distance Length = 67.4147
+Wed Feb 19 16:53:18 2025 [1740005598394 msec] (4491 s) Thread 53 - [CreatureObject] INFO - Next Position Dist Sq: 5.53691 Player Position: (x:3559.17, y:-4779.65, z:0) Speed: 4.95695
+Wed Feb 19 16:53:18 2025 [1740005598394 msec] (4491 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- parsedSpeed: 4.95695 Teleport position: (x:22.585, y:59.3882, z:0.639403)
+Wed Feb 19 16:53:18 2025 [1740005598394 msec] (4491 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- PASSED
+Wed Feb 19 16:53:18 2025 [1740005598394 msec] (4491 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests -- PASSED -- Distance: 5.53691
+Wed Feb 19 16:53:19 2025 [1740005599498 msec] (4493 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests -- Parent Transform with newWorldPosition X = 3563.49 Z = 5.63977 Y = -4765.52 Distance Length = 65.9136
+Wed Feb 19 16:53:19 2025 [1740005599498 msec] (4493 s) Thread 53 - [CreatureObject] INFO - Next Position Dist Sq: 11.1091 Player Position: (x:3557.01, y:-4774.55, z:0) Speed: 10.0626
+Wed Feb 19 16:53:19 2025 [1740005599498 msec] (4493 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- parsedSpeed: 10.0626 Teleport position: (x:27.7239, y:61.4502, z:0.639461)
+Wed Feb 19 16:53:19 2025 [1740005599498 msec] (4493 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- PASSED
+Wed Feb 19 16:53:19 2025 [1740005599498 msec] (4493 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests -- PASSED -- Distance: 11.1091
+Wed Feb 19 16:53:19 2025 [1740005599704 msec] (4493 s) Thread 54 - [CreatureObject] INFO - checkSpeedHackTests -- Parent Transform with newWorldPosition X = 3268.6 Z = 0.00177143 Y = 2139.92 Distance Length = 2.62027
+Wed Feb 19 16:53:19 2025 [1740005599704 msec] (4493 s) Thread 54 - [CreatureObject] INFO - checkSpeedHackTests -- PASSED -- Distance: 0.644947
+Wed Feb 19 16:53:20 2025 [1740005600721 msec] (4494 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests -- Parent Transform with newWorldPosition X = 3576.31 Z = 5.63942 Y = -4759.05 Distance Length = 59.9032
+Wed Feb 19 16:53:20 2025 [1740005600721 msec] (4494 s) Thread 53 - [CreatureObject] INFO - Next Position Dist Sq: 14.364 Player Position: (x:3563.49, y:-4765.52, z:0) Speed: 11.7449
+Wed Feb 19 16:53:20 2025 [1740005600721 msec] (4494 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- parsedSpeed: 11.7449 Teleport position: (x:36.6241, y:54.8021, z:0.639768)
+Wed Feb 19 16:53:20 2025 [1740005600721 msec] (4494 s) Thread 53 - [CreatureObject] INFO - 
+checkPlayerSpeedTest -- FAILED -- Due to timeStamp diff: 7393 with Max Allowed Speed: 10.0778 Parsed Speed: 11.7449
+
+Wed Feb 19 16:53:21 2025 [1740005601896 msec] (4495 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests -- Parent Transform with newWorldPosition X = 3569.84 Z = 5.63942 Y = -4762.12 Distance Length = 62.714
+Wed Feb 19 16:53:21 2025 [1740005601896 msec] (4495 s) Thread 53 - [CreatureObject] INFO - Next Position Dist Sq: 7.20774 Player Position: (x:3563.49, y:-4765.52, z:0) Speed: 6.14995
+Wed Feb 19 16:53:21 2025 [1740005601896 msec] (4495 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- parsedSpeed: 6.14995 Teleport position: (x:36.6241, y:54.8021, z:0.639768)
+Wed Feb 19 16:53:21 2025 [1740005601896 msec] (4495 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- PASSED
+Wed Feb 19 16:53:21 2025 [1740005601896 msec] (4495 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests -- PASSED -- Distance: 7.20774
+Wed Feb 19 16:53:23 2025 [1740005603005 msec] (4496 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests -- Parent Transform with newWorldPosition X = 3578.77 Z = 4.9244 Y = -4756.07 Distance Length = 60.3607
+Wed Feb 19 16:53:23 2025 [1740005603005 msec] (4496 s) Thread 53 - [CreatureObject] INFO - Next Position Dist Sq: 10.787 Player Position: (x:3569.84, y:-4762.12, z:0) Speed: 9.72675
+Wed Feb 19 16:53:23 2025 [1740005603005 msec] (4496 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- parsedSpeed: 9.72675 Teleport position: (x:39.9018, y:48.3827, z:0.639416)
+Wed Feb 19 16:53:23 2025 [1740005603005 msec] (4496 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- PASSED
+Wed Feb 19 16:53:23 2025 [1740005603005 msec] (4496 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests -- PASSED -- Distance: 10.787
+Wed Feb 19 16:53:24 2025 [1740005604038 msec] (4497 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests -- Parent Transform with newWorldPosition X = 3588.25 Z = 4.47886 Y = -4750.94 Distance Length = 58.8137
+Wed Feb 19 16:53:24 2025 [1740005604038 msec] (4497 s) Thread 53 - [CreatureObject] INFO - Next Position Dist Sq: 10.7765 Player Position: (x:3578.77, y:-4756.07, z:0) Speed: 10.4323
+Wed Feb 19 16:53:24 2025 [1740005604038 msec] (4497 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- parsedSpeed: 10.4323 Teleport position: (x:45.7808, y:39.3388, z:-0.0755962)
+Wed Feb 19 16:53:24 2025 [1740005604038 msec] (4497 s) Thread 53 - [CreatureObject] INFO - 
+checkPlayerSpeedTest -- FAILED -- Due to timeStamp diff: 10710 with Max Allowed Speed: 10.0778 Parsed Speed: 10.4323
+
+Wed Feb 19 16:53:24 2025 [1740005604726 msec] (4498 s) Thread 54 - [CreatureObject] INFO - checkSpeedHackTests -- Parent Transform with newWorldPosition X = 3268.7 Z = 0.00160587 Y = 2139.85 Distance Length = 2.73988
+Wed Feb 19 16:53:24 2025 [1740005604726 msec] (4498 s) Thread 54 - [CreatureObject] INFO - checkSpeedHackTests -- PASSED -- Distance: 0.126637
+Wed Feb 19 16:53:25 2025 [1740005605121 msec] (4498 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests -- Parent Transform with newWorldPosition X = 3584.73 Z = 4.47886 Y = -4753.31 Distance Length = 58.7829
+Wed Feb 19 16:53:25 2025 [1740005605121 msec] (4498 s) Thread 53 - [CreatureObject] INFO - Next Position Dist Sq: 6.56864 Player Position: (x:3578.77, y:-4756.07, z:0) Speed: 6.09336
+Wed Feb 19 16:53:25 2025 [1740005605121 msec] (4498 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- parsedSpeed: 6.09336 Teleport position: (x:45.7808, y:39.3388, z:-0.0755962)
+Wed Feb 19 16:53:25 2025 [1740005605121 msec] (4498 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- PASSED
+Wed Feb 19 16:53:25 2025 [1740005605121 msec] (4498 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests -- PASSED -- Distance: 6.56864
+Wed Feb 19 16:53:26 2025 [1740005606318 msec] (4499 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests -- Parent Transform with newWorldPosition X = 3596.59 Z = 5.97463 Y = -4748.02 Distance Length = 57.5942
+Wed Feb 19 16:53:26 2025 [1740005606318 msec] (4499 s) Thread 53 - [CreatureObject] INFO - Next Position Dist Sq: 12.9836 Player Position: (x:3584.73, y:-4753.31, z:0) Speed: 10.8468
+Wed Feb 19 16:53:26 2025 [1740005606318 msec] (4499 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- parsedSpeed: 10.8468 Teleport position: (x:48.4236, y:33.3253, z:-0.521137)
+Wed Feb 19 16:53:26 2025 [1740005606318 msec] (4499 s) Thread 53 - [CreatureObject] INFO - 
+checkPlayerSpeedTest -- FAILED -- Due to timeStamp diff: 12990 with Max Allowed Speed: 10.0778 Parsed Speed: 10.8468
+
+Wed Feb 19 16:53:27 2025 [1740005607344 msec] (4500 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests -- Parent Transform with newWorldPosition X = 3592.36 Z = 5.84754 Y = -4750.14 Distance Length = 57.4801
+Wed Feb 19 16:53:27 2025 [1740005607344 msec] (4500 s) Thread 53 - [CreatureObject] INFO - Next Position Dist Sq: 8.25804 Player Position: (x:3584.73, y:-4753.31, z:0) Speed: 8.07238
+Wed Feb 19 16:53:27 2025 [1740005607344 msec] (4500 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- parsedSpeed: 8.07238 Teleport position: (x:48.4236, y:33.3253, z:-0.521137)
+Wed Feb 19 16:53:27 2025 [1740005607344 msec] (4500 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- PASSED
+Wed Feb 19 16:53:27 2025 [1740005607344 msec] (4500 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests -- PASSED -- Distance: 8.25804
+Wed Feb 19 16:53:28 2025 [1740005608461 msec] (4501 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests -- Parent Transform with newWorldPosition X = 3602.1 Z = 5.97463 Y = -4745.92 Distance Length = 57.6924
+Wed Feb 19 16:53:28 2025 [1740005608461 msec] (4501 s) Thread 53 - [CreatureObject] INFO - Next Position Dist Sq: 10.6165 Player Position: (x:3592.36, y:-4750.14, z:0) Speed: 9.5045
+Wed Feb 19 16:53:28 2025 [1740005608461 msec] (4501 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- parsedSpeed: 9.5045 Teleport position: (x:51.4448, y:25.6397, z:0.847542)
+Wed Feb 19 16:53:28 2025 [1740005608462 msec] (4501 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- PASSED
+Wed Feb 19 16:53:28 2025 [1740005608462 msec] (4501 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests -- PASSED -- Distance: 10.6165
+Wed Feb 19 16:53:29 2025 [1740005609623 msec] (4503 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests -- Parent Transform with newWorldPosition X = 3609.12 Z = 5.97463 Y = -4747.74 Distance Length = 54.2504
+Wed Feb 19 16:53:29 2025 [1740005609623 msec] (4503 s) Thread 53 - [CreatureObject] INFO - Next Position Dist Sq: 7.24794 Player Position: (x:3602.1, y:-4745.92, z:0) Speed: 6.24284
+Wed Feb 19 16:53:29 2025 [1740005609623 msec] (4503 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- parsedSpeed: 6.24284 Teleport position: (x:55.4809, y:15.8204, z:0.974633)
+Wed Feb 19 16:53:29 2025 [1740005609623 msec] (4503 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- PASSED
+Wed Feb 19 16:53:29 2025 [1740005609623 msec] (4503 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests -- PASSED -- Distance: 7.24794
+Wed Feb 19 16:53:29 2025 [1740005609718 msec] (4503 s) Thread 8 - [PlayerObjectBase 0x1000001A6CE27] INFO - unloading link dead player
+Wed Feb 19 16:53:30 2025 [1740005610201 msec] (4503 s) Thread 54 - [CreatureObject] INFO - checkSpeedHackTests -- Parent Transform with newWorldPosition X = 3268.1 Z = 0.000257023 Y = 2137.68 Distance Length = 4.45393
+Wed Feb 19 16:53:30 2025 [1740005610201 msec] (4503 s) Thread 54 - [CreatureObject] INFO - Next Position Dist Sq: 2.25425 Player Position: (x:3268.7, y:2139.85, z:0) Speed: 0.41181
+Wed Feb 19 16:53:30 2025 [1740005610201 msec] (4503 s) Thread 54 - [CreatureObject] INFO - checkPlayerSpeedTest -- parsedSpeed: 0.41181 Teleport position: (x:1.70444, y:-2.14519, z:0.00160587)
+Wed Feb 19 16:53:30 2025 [1740005610201 msec] (4503 s) Thread 54 - [CreatureObject] INFO - checkPlayerSpeedTest -- PASSED
+Wed Feb 19 16:53:30 2025 [1740005610201 msec] (4503 s) Thread 54 - [CreatureObject] INFO - checkSpeedHackTests -- PASSED -- Distance: 2.25425
+Wed Feb 19 16:53:30 2025 [1740005610631 msec] (4504 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests ---- Checking - new Position X = 3614.2 Z = 5 Y = -4757.57
+Wed Feb 19 16:53:30 2025 [1740005610631 msec] (4504 s) Thread 53 - [CreatureObject] INFO - Next Position Dist Sq: 11.0671 Player Position: (x:3609.12, y:-4747.74, z:0) Speed: 10.9792
+Wed Feb 19 16:53:30 2025 [1740005610631 msec] (4504 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- parsedSpeed: 10.9792 Teleport position: (x:53.5251, y:8.84125, z:0.974633)
+Wed Feb 19 16:53:30 2025 [1740005610631 msec] (4504 s) Thread 53 - [CreatureObject] INFO - 
+checkPlayerSpeedTest -- FAILED -- Due to timeStamp diff: 17303 with Max Allowed Speed: 10.0778 Parsed Speed: 10.9792
+
+Wed Feb 19 16:53:32 2025 [1740005612119 msec] (4505 s) Thread 54 - [CreatureObject] INFO - checkSpeedHackTests -- Parent Transform with newWorldPosition X = 3270.65 Z = 2.28924e-08 Y = 2136.17 Distance Length = 6.88169
+Wed Feb 19 16:53:32 2025 [1740005612119 msec] (4505 s) Thread 54 - [CreatureObject] INFO - Next Position Dist Sq: 2.96951 Player Position: (x:3268.1, y:2137.68, z:0) Speed: 1.54904
+Wed Feb 19 16:53:32 2025 [1740005612119 msec] (4505 s) Thread 54 - [CreatureObject] INFO - checkPlayerSpeedTest -- parsedSpeed: 1.54904 Teleport position: (x:1.09788, y:-4.3165, z:0.000257023)
+Wed Feb 19 16:53:32 2025 [1740005612119 msec] (4505 s) Thread 54 - [CreatureObject] INFO - checkPlayerSpeedTest -- PASSED
+Wed Feb 19 16:53:32 2025 [1740005612119 msec] (4505 s) Thread 54 - [CreatureObject] INFO - checkSpeedHackTests -- PASSED -- Distance: 2.96951
+Wed Feb 19 16:53:32 2025 [1740005612276 msec] (4505 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests ---- Checking - new Position X = 3616.79 Z = 5 Y = -4763.62
+Wed Feb 19 16:53:32 2025 [1740005612276 msec] (4505 s) Thread 53 - [CreatureObject] INFO - Next Position Dist Sq: 8.8391 Player Position: (x:3613.26, y:-4755.51, z:0) Speed: 5.39299
+Wed Feb 19 16:53:32 2025 [1740005612276 msec] (4505 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- parsedSpeed: 5.39299 Teleport position: (x:3613.26, y:-4755.51, z:5)
+Wed Feb 19 16:53:32 2025 [1740005612276 msec] (4505 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- PASSED
+Wed Feb 19 16:53:32 2025 [1740005612276 msec] (4505 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests -- PASSED -- Distance: 8.8391
+Wed Feb 19 16:53:33 2025 [1740005613345 msec] (4506 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests ---- Checking - new Position X = 3623.01 Z = 5 Y = -4778.19
+Wed Feb 19 16:53:33 2025 [1740005613346 msec] (4506 s) Thread 53 - [CreatureObject] INFO - Next Position Dist Sq: 15.8423 Player Position: (x:3616.79, y:-4763.62, z:0) Speed: 14.8197
+Wed Feb 19 16:53:33 2025 [1740005613346 msec] (4506 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- parsedSpeed: 14.8197 Teleport position: (x:3616.79, y:-4763.62, z:5)
+Wed Feb 19 16:53:33 2025 [1740005613346 msec] (4506 s) Thread 53 - [CreatureObject] INFO - 
+checkPlayerSpeedTest -- FAILED -- Due to timeStamp diff: 20018 with Max Allowed Speed: 10.0778 Parsed Speed: 14.8197
+
+Wed Feb 19 16:53:33 2025 [1740005613526 msec] (4507 s) Thread 54 - [CreatureObject] INFO - checkSpeedHackTests -- Parent Transform with newWorldPosition X = 3269.73 Z = 0.000436129 Y = 2139.67 Distance Length = 3.58963
+Wed Feb 19 16:53:33 2025 [1740005613526 msec] (4507 s) Thread 54 - [CreatureObject] INFO - Next Position Dist Sq: 3.61875 Player Position: (x:3270.65, y:2136.17, z:0) Speed: 2.57196
+Wed Feb 19 16:53:33 2025 [1740005613526 msec] (4507 s) Thread 54 - [CreatureObject] INFO - checkPlayerSpeedTest -- parsedSpeed: 2.57196 Teleport position: (x:3.65067, y:-5.83355, z:2.28924e-08)
+Wed Feb 19 16:53:33 2025 [1740005613526 msec] (4507 s) Thread 54 - [CreatureObject] INFO - checkPlayerSpeedTest -- PASSED
+Wed Feb 19 16:53:33 2025 [1740005613526 msec] (4507 s) Thread 54 - [CreatureObject] INFO - checkSpeedHackTests -- PASSED -- Distance: 3.61875
+Wed Feb 19 16:53:34 2025 [1740005614853 msec] (4508 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests ---- Checking - new Position X = 3625.71 Z = 5 Y = -4784.49
+Wed Feb 19 16:53:34 2025 [1740005614853 msec] (4508 s) Thread 53 - [CreatureObject] INFO - Next Position Dist Sq: 9.14456 Player Position: (x:3622.11, y:-4776.08, z:0) Speed: 6.09637
+Wed Feb 19 16:53:34 2025 [1740005614853 msec] (4508 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- parsedSpeed: 6.09637 Teleport position: (x:3622.11, y:-4776.08, z:5)
+Wed Feb 19 16:53:34 2025 [1740005614853 msec] (4508 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- PASSED
+Wed Feb 19 16:53:34 2025 [1740005614853 msec] (4508 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests -- PASSED -- Distance: 9.14456
+Wed Feb 19 16:53:34 2025 [1740005614863 msec] (4508 s) Thread 54 - [CreatureObject] INFO - checkSpeedHackTests -- Parent Transform with newWorldPosition X = 3271.25 Z = 3.54726e-09 Y = 2135.8 Distance Length = 7.51708
+Wed Feb 19 16:53:34 2025 [1740005614863 msec] (4508 s) Thread 54 - [CreatureObject] INFO - Next Position Dist Sq: 4.15573 Player Position: (x:3269.73, y:2139.67, z:0) Speed: 3.10825
+Wed Feb 19 16:53:34 2025 [1740005614863 msec] (4508 s) Thread 54 - [CreatureObject] INFO - checkPlayerSpeedTest -- parsedSpeed: 3.10825 Teleport position: (x:2.72668, y:-2.33466, z:0.000436129)
+Wed Feb 19 16:53:34 2025 [1740005614863 msec] (4508 s) Thread 54 - [CreatureObject] INFO - checkPlayerSpeedTest -- PASSED
+Wed Feb 19 16:53:34 2025 [1740005614863 msec] (4508 s) Thread 54 - [CreatureObject] INFO - checkSpeedHackTests -- PASSED -- Distance: 4.15573
+Wed Feb 19 16:53:37 2025 [1740005617003 msec] (4510 s) Thread 54 - [CreatureObject] INFO - checkSpeedHackTests -- Parent Transform with newWorldPosition X = 3273.63 Z = 7.12821e-08 Y = 2134.42 Distance Length = 10.0654
+Wed Feb 19 16:53:37 2025 [1740005617003 msec] (4510 s) Thread 54 - [CreatureObject] INFO - Next Position Dist Sq: 2.74841 Player Position: (x:3271.25, y:2135.8, z:0) Speed: 1.2843
+Wed Feb 19 16:53:37 2025 [1740005617003 msec] (4510 s) Thread 54 - [CreatureObject] INFO - checkPlayerSpeedTest -- parsedSpeed: 1.2843 Teleport position: (x:4.24686, y:-6.20248, z:3.54726e-09)
+Wed Feb 19 16:53:37 2025 [1740005617003 msec] (4510 s) Thread 54 - [CreatureObject] INFO - checkPlayerSpeedTest -- PASSED
+Wed Feb 19 16:53:37 2025 [1740005617004 msec] (4510 s) Thread 54 - [CreatureObject] INFO - checkSpeedHackTests -- PASSED -- Distance: 2.74841
+Wed Feb 19 16:53:37 2025 [1740005617366 msec] (4510 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests ---- Checking - new Position X = 3628.47 Z = 5 Y = -4790.95
+Wed Feb 19 16:53:37 2025 [1740005617366 msec] (4510 s) Thread 53 - [CreatureObject] INFO - Next Position Dist Sq: 7.02182 Player Position: (x:3625.71, y:-4784.49, z:0) Speed: 2.7942
+Wed Feb 19 16:53:37 2025 [1740005617366 msec] (4510 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- parsedSpeed: 2.7942 Teleport position: (x:3625.71, y:-4784.49, z:5)
+Wed Feb 19 16:53:37 2025 [1740005617366 msec] (4510 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- PASSED
+Wed Feb 19 16:53:37 2025 [1740005617366 msec] (4510 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests -- PASSED -- Distance: 7.02182
+Wed Feb 19 16:53:38 2025 [1740005618674 msec] (4512 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests ---- Checking - new Position X = 3625.8 Z = 5 Y = -4785.64
+Wed Feb 19 16:53:38 2025 [1740005618674 msec] (4512 s) Thread 53 - [CreatureObject] INFO - Next Position Dist Sq: 5.93957 Player Position: (x:3628.47, y:-4790.95, z:0) Speed: 4.54095
+Wed Feb 19 16:53:38 2025 [1740005618674 msec] (4512 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- parsedSpeed: 4.54095 Teleport position: (x:3628.47, y:-4790.95, z:5)
+Wed Feb 19 16:53:38 2025 [1740005618674 msec] (4512 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- PASSED
+Wed Feb 19 16:53:38 2025 [1740005618674 msec] (4512 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests -- PASSED -- Distance: 5.93957
+Wed Feb 19 16:53:39 2025 [1740005619774 msec] (4513 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests ---- Checking - new Position X = 3619.65 Z = 5 Y = -4777.48
+Wed Feb 19 16:53:39 2025 [1740005619774 msec] (4513 s) Thread 53 - [CreatureObject] INFO - Next Position Dist Sq: 10.2218 Player Position: (x:3625.8, y:-4785.64, z:0) Speed: 9.32642
+Wed Feb 19 16:53:39 2025 [1740005619774 msec] (4513 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- parsedSpeed: 9.32642 Teleport position: (x:3625.8, y:-4785.64, z:5)
+Wed Feb 19 16:53:39 2025 [1740005619774 msec] (4513 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- PASSED
+Wed Feb 19 16:53:39 2025 [1740005619774 msec] (4513 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests -- PASSED -- Distance: 10.2218
+Wed Feb 19 16:53:41 2025 [1740005621064 msec] (4514 s) Thread 54 - [CreatureObject] INFO - checkSpeedHackTests -- Parent Transform with newWorldPosition X = 3272.97 Z = 0.68858 Y = 2137.62 Distance Length = 7.40733
+Wed Feb 19 16:53:41 2025 [1740005621064 msec] (4514 s) Thread 54 - [CreatureObject] INFO - Next Position Dist Sq: 3.26261 Player Position: (x:3273.63, y:2134.42, z:0) Speed: 0.803402
+Wed Feb 19 16:53:41 2025 [1740005621064 msec] (4514 s) Thread 54 - [CreatureObject] INFO - checkPlayerSpeedTest -- parsedSpeed: 0.803402 Teleport position: (x:6.62757, y:-7.57545, z:7.12821e-08)
+Wed Feb 19 16:53:41 2025 [1740005621065 msec] (4514 s) Thread 54 - [CreatureObject] INFO - checkPlayerSpeedTest -- PASSED
+Wed Feb 19 16:53:41 2025 [1740005621066 msec] (4514 s) Thread 54 - [CreatureObject] INFO - checkSpeedHackTests -- PASSED -- Distance: 3.26261
+Wed Feb 19 16:53:41 2025 [1740005621075 msec] (4514 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests ---- Checking - new Position X = 3615.87 Z = 5 Y = -4777.66
+Wed Feb 19 16:53:41 2025 [1740005621075 msec] (4514 s) Thread 53 - [CreatureObject] INFO - Next Position Dist Sq: 3.78159 Player Position: (x:3619.65, y:-4777.48, z:0) Speed: 2.90668
+Wed Feb 19 16:53:41 2025 [1740005621075 msec] (4514 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- parsedSpeed: 2.90668 Teleport position: (x:3619.65, y:-4777.48, z:5)
+Wed Feb 19 16:53:41 2025 [1740005621075 msec] (4514 s) Thread 53 - [CreatureObject] INFO - checkPlayerSpeedTest -- PASSED
+Wed Feb 19 16:53:41 2025 [1740005621075 msec] (4514 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests -- PASSED -- Distance: 3.78159
+Wed Feb 19 16:53:42 2025 [1740005622407 msec] (4515 s) Thread 53 - [CreatureObject] INFO - checkSpeedHackTests ---- Checking - new Position X = 3607.76 Z = 5 Y = -4765.34
+Wed Feb 19 16:53:42 2025 [1740005622407 msec] (4515 s) Thread 53 - [CreatureObject] INFO - Next Position Dist Sq: 14.7522 Player Position: (x:3615.87, y:-4777.66, z:0) Speed: 11.0752
+Wed Feb 19 16:53:42 2025 [1740005622407 msec] (4515 s) Thread 53 - [Cr
