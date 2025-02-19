@@ -569,7 +569,9 @@ void PlayerObjectImplementation::notifySceneReady() {
 		}
 
 		// Create or spawn the helper droid
-		createHelperDroid();
+		//createHelperDroid();
+		if (ConfigManager::instance()->getBool("Core3.EnableHelperDroid", false))
+			createHelperDroid();
 	}
 
 	// info(true) << creature->getDisplayedName() << " --- notifySceneReady COMPLETE with Zone Name: " << zone->getZoneName() << " World Pos: " << creature->getWorldPosition().toString();
