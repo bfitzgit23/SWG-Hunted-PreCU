@@ -346,3 +346,5 @@ Thu Feb 20 17:30:02 2025 [ServerEventAutomation] playerEvent Diana (account_id: 
 Thu Feb 20 17:30:02 2025 [ServerEventAutomation] playerEvent Diana (account_id: 46, oid: 281475004346318, played: 11h 29m 34s, session: 0s) on naboo at 4870 6063 - playerLoggedOut
 Thu Feb 20 17:31:19 2025 [ServerEventAutomation] playerEvent PrisMay (account_id: 55, oid: 281475004776835, played: 1h 54m 39s, session: 1h 54m 38s) on naboo at 1750 2613 - playerLoggedOut
 Thu Feb 20 17:31:27 2025 [ServerEventAutomation] playerEvent Diana (account_id: 46, oid: 281475004346318, played: 11h 29m 35s, session: 0s) on naboo at 4870 6063 - playerLoggedIn
+Thu Feb 20 17:36:40 2025 [ServerEventAutomation] playerEvent Diana (account_id: 46, oid: 281475004346318, played: 11h 34m 47s, session: 5m 12s) on naboo at 4867 6095 - playerLoggedOut
+Thu Feb 20 17:36:48 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475004227767, played: 12h 42m 20s, session: 1h 7m 54s) on naboo at 4876 6103 - playerLoggedOut
