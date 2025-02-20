@@ -44,7 +44,7 @@
 --GENERAL PLAYER SETTINGS
 -----------------------------------
 
-onlineCharactersPerAccount = 3 --How many characters are allowed online from a single account.
+onlineCharactersPerAccount = 4 --How many characters are allowed online from a single account.
 allowSameAccountPvpRatingCredit = 0
 
 --Blue frog / GM buff values
@@ -63,7 +63,7 @@ globalExpMultiplier = 10.0
 craftExpMultiplier = 16.0
 entExpMultiplier = 16.0
 -- Note: jedi will ignore globalExpMultiplier so if you want to adjust, change this value
---jediExpMultiplier = 3.0
+jediExpMultiplier = 10.0
 
 FRSExpMultiplier = 3.0
 

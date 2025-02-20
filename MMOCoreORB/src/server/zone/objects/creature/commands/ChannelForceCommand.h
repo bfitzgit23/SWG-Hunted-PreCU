@@ -21,9 +21,9 @@ public:
 		if (!checkInvalidLocomotions(creature))
 			return INVALIDLOCOMOTION;
 
-////////////		if (isWearingArmor(creature)) {
-////////////			return NOJEDIARMOR;
-////////////		}
+//////////////		if (isWearingArmor(creature)) {
+//////////////			return NOJEDIARMOR;
+//////////////		}
 
 		// Bonus is in between 250-350.
 		int forceRandom = System::random(100);
