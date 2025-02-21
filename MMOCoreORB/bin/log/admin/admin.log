@@ -258,3 +258,4 @@ Thu Feb 20 09:39:47 2025 [1740065987396 msec] (31941 s) Thread 4 - [AdminCommand
 Thu Feb 20 09:39:48 2025 [1740065988525 msec] (31942 s) Thread 6 - [AdminCommands] INFO - Kit used '/object' on (null) with params 'createloot clothing_attachments 500'
 Thu Feb 20 16:35:27 2025 [1740090927659 msec] (4746 s) Thread 4 - [AdminCommands] INFO - Jinn used '/teleportto' on (null) with params 'abaddon'
 Thu Feb 20 16:35:45 2025 [1740090945852 msec] (4764 s) Thread 6 - [AdminCommands] INFO - Jinn used '/unfreezeplayer' on Abaddon(Player) with params ''
+Thu Feb 20 18:34:40 2025 [1740098080475 msec] (2625 s) Thread 5 - [AdminCommands] INFO - Jinn used '/broadcastgalaxy' on (null) with params 'server going down for updates in 3 minutes'
