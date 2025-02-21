@@ -365,3 +365,10 @@ Thu Feb 20 18:37:36 2025 [ServerEventAutomation] playerEvent Jilfine (account_id
 Thu Feb 20 18:37:41 2025 [ServerEventAutomation] playerEvent Jinn (account_id: 1, oid: 281475004617799, played: 1h 14m 26s, session: 21m 7s) on corellia at -65 -4715 - playerLoggedOut
 Thu Feb 20 18:37:41 2025 [ServerEventAutomation] playerEvent Jaybad (account_id: 53, oid: 281475004497288, played: 4h 35m 53s, session: 14m 59s) on corellia at -5043 -2295 - playerLoggedOut
 Thu Feb 20 18:37:53 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475004841011, played: 40m 51s, session: 1m 10s) on rori at -5141 -2216 - playerLoggedOut
+Thu Feb 20 18:53:07 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475004841011, played: 40m 51s, session: 0s) on rori at -5141 -2216 - playerLoggedOut
+Thu Feb 20 18:55:17 2025 [ServerEventAutomation] playerEvent Jaybad (account_id: 53, oid: 281475004497288, played: 4h 35m 54s, session: 0s) on corellia at -5043 -2295 - playerLoggedIn
+Thu Feb 20 18:55:31 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475004841011, played: 40m 52s, session: 0s) on rori at -5141 -2216 - playerLoggedIn
+Thu Feb 20 18:56:12 2025 [ServerEventAutomation] playerEvent Jilfine (account_id: 52, oid: 281475004841042, played: 38m 56s, session: 0s) on rori at -5153 -2329 - playerLoggedOut
+Thu Feb 20 18:56:12 2025 [ServerEventAutomation] playerEvent Jilfine (account_id: 52, oid: 281475004841042, played: 38m 57s, session: 0s) on rori at -5153 -2329 - playerLoggedIn
+Thu Feb 20 18:58:00 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475004841011, played: 43m 21s, session: 2m 29s) on rori at -5141 -2216 - playerLoggedOut
+Thu Feb 20 18:58:00 2025 [ServerEventAutomation] playerEvent Jilfine (account_id: 52, oid: 281475004841042, played: 40m 44s, session: 1m 46s) on rori at -5153 -2329 - playerLoggedOut
