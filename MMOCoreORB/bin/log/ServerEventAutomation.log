@@ -402,3 +402,11 @@ Thu Feb 20 20:20:55 2025 [ServerEventAutomation] playerEvent Madrox (account_id:
 Thu Feb 20 20:28:19 2025 [ServerEventAutomation] playerEvent Mirage (account_id: 56, oid: 281475004960755, played: 1s, session: 0s) on tutorial at 2765 221 - playerLoggedIn
 Thu Feb 20 20:59:21 2025 [ServerEventAutomation] playerEvent Jilfine (account_id: 52, oid: 281475004841042, played: 44m 47s, session: 0s) on rori at -5161 -2326 - playerLoggedIn
 Thu Feb 20 21:00:40 2025 [ServerEventAutomation] playerEvent Jilfine (account_id: 52, oid: 281475004841042, played: 46m 6s, session: 1m 18s) on rori at -5158 -2330 - playerLoggedOut
+Thu Feb 20 21:18:21 2025 [ServerEventAutomation] playerEvent Jinn (account_id: 1, oid: 281475004617799, played: 1h 18m 55s, session: 0s) on rori at 5528 5642 - playerLoggedIn
+Thu Feb 20 21:20:08 2025 [ServerEventAutomation] playerEvent Mirage (account_id: 56, oid: 281475004960755, played: 51m 36s, session: 51m 35s) on tatooine at 3238 -4616 - playerLoggedOut
+Thu Feb 20 21:20:23 2025 [ServerEventAutomation] playerEvent Jinn (account_id: 1, oid: 281475004617799, played: 1h 20m 56s, session: 2m 1s) on rori at 5528 5642 - playerLoggedOut
+Thu Feb 20 21:21:42 2025 [ServerEventAutomation] playerEvent Jin (account_id: 1, oid: 281475004961706, played: 1s, session: 0s) on tutorial at 1832 794 - playerLoggedIn
+Thu Feb 20 21:40:35 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475004841011, played: 1h 1m 24s, session: 0s) on rori at -5140 -2216 - playerLoggedIn
+Thu Feb 20 21:44:33 2025 [ServerEventAutomation] playerEvent Jin (account_id: 1, oid: 281475004961706, played: 22m 50s, session: 22m 49s) on corellia at 6091 -5581 - playerLoggedOut
+Thu Feb 20 21:44:47 2025 [ServerEventAutomation] playerEvent Jaybad (account_id: 53, oid: 281475004497288, played: 5h 2m 31s, session: 1m 48s) on  at 12 58 - playerLoggedOut
+Thu Feb 20 21:44:47 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475004841011, played: 1h 5m 34s, session: 4m 10s) on rori at -5141 -2217 - playerLoggedOut
