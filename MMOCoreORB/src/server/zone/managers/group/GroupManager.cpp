@@ -64,7 +64,7 @@ void GroupManager::inviteToGroup(CreatureObject* inviter, CreatureObject* target
 		}
 
 		// can't invite if the group is full
-		if (group->getGroupSize() >= 20) {
+		if (group->getGroupSize() >= 50) {
 			inviter->sendSystemMessage("@group:full");
 			return;
 		}
@@ -207,7 +207,7 @@ void GroupManager::joinGroup(CreatureObject* creature) {
 	// Cross lock the player that is joining the group
 	Locker clocker(creature, group);
 
-	if (group->getGroupSize() >= 20) {
+	if (group->getGroupSize() >= 50) {
 		creature->updateGroupInviterID(0);
 
 		creature->sendSystemMessage("The group is full.");
@@ -271,6 +271,7 @@ void GroupManager::joinGroup(CreatureObject* creature) {
 	creature->updateGroupInviterID(0, false);
 }
 
+
 void GroupManager::createGroup(CreatureObject* leader, CreatureObject* creature) {
 	// Group Leader is locked coming into this function
 
@@ -285,7 +286,6 @@ void GroupManager::createGroup(CreatureObject* leader, CreatureObject* creature)
 		return;
 
 	auto zoneServer = leader->getZoneServer();
-
 	if (zoneServer == nullptr)
 		return;
 
@@ -907,4 +907,3 @@ void GroupManager::transferLoot(GroupObject* group, CreatureObject* winner, Scen
 		}
 
 	}
-
