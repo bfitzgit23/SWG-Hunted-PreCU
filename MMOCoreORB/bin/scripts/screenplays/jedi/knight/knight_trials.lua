@@ -36,10 +36,10 @@ function KnightTrials:startNextKnightTrial(pPlayer)
 	local playerFaction = CreatureObject(pPlayer):getFaction()
 	local playerCouncil = JediTrials:getJediCouncil(pPlayer)
 
-	if ((playerFaction == FACTIONIMPERIAL and playerCouncil == JediTrials.COUNCIL_LIGHT) or (playerFaction == FACTIONREBEL and playerCouncil == JediTrials.COUNCIL_DARK)) then
-		self:giveWrongFactionWarning(pPlayer, playerCouncil)
-		return
-	end
+--	if ((playerFaction == FACTIONIMPERIAL and playerCouncil == JediTrials.COUNCIL_LIGHT) or (playerFaction == FACTIONREBEL and playerCouncil == JediTrials.COUNCIL_DARK)) then
+--		self:giveWrongFactionWarning(pPlayer, playerCouncil)
+--		return
+--	end
 
 	local trialsCompleted = JediTrials:getTrialsCompleted(pPlayer)
 
@@ -172,28 +172,28 @@ function KnightTrials:doCouncilDecision(pPlayer, choice)
 	local successMsg
 
 	if (choice == JediTrials.COUNCIL_LIGHT) then
-		if (playerFaction == FACTIONIMPERIAL) then
-			local sui = SuiMessageBox.new("KnightTrials", "noCallback")
-			sui.setTitle("@jedi_trials:knight_trials_title")
-			sui.setPrompt("@jedi_trials:faction_wrong_choice_light")
-			sui.setOkButtonText("@jedi_trials:button_close")
-			sui.hideCancelButton()
-			sui.sendTo(pPlayer)
-			return
-		end
+--		if (playerFaction == FACTIONIMPERIAL) then
+--			local sui = SuiMessageBox.new("KnightTrials", "noCallback")
+--			sui.setTitle("@jedi_trials:knight_trials_title")
+--			sui.setPrompt("@jedi_trials:faction_wrong_choice_light")
+--			sui.setOkButtonText("@jedi_trials:button_close")
+--			sui.hideCancelButton()
+--			sui.sendTo(pPlayer)
+--			return
+--		end
 
 		musicFile = "sound/music_themequest_victory_rebel.snd"
 		successMsg = "@jedi_trials:council_chosen_light"
 	elseif (choice == JediTrials.COUNCIL_DARK) then
-		if (playerFaction == FACTIONREBEL) then
-			local sui = SuiMessageBox.new("KnightTrials", "noCallback")
-			sui.setTitle("@jedi_trials:knight_trials_title")
-			sui.setPrompt("@jedi_trials:faction_wrong_choice_dark")
-			sui.setOkButtonText("@jedi_trials:button_close")
-			sui.hideCancelButton()
-			sui.sendTo(pPlayer)
-			return
-		end
+--		if (playerFaction == FACTIONREBEL) then
+--			local sui = SuiMessageBox.new("KnightTrials", "noCallback")
+--			sui.setTitle("@jedi_trials:knight_trials_title")
+--			sui.setPrompt("@jedi_trials:faction_wrong_choice_dark")
+--			sui.setOkButtonText("@jedi_trials:button_close")
+--			sui.hideCancelButton()
+--			sui.sendTo(pPlayer)
+--			return
+--		end
 
 		musicFile = "sound/music_themequest_victory_imperial.snd"
 		successMsg = "@jedi_trials:council_chosen_dark"
@@ -228,10 +228,10 @@ function KnightTrials:notifyKilledHuntTarget(pPlayer, pVictim)
 	local playerFaction = CreatureObject(pPlayer):getFaction()
 	local playerCouncil = JediTrials:getJediCouncil(pPlayer)
 
-	if ((playerFaction == FACTIONIMPERIAL and playerCouncil == JediTrials.COUNCIL_LIGHT) or (playerFaction == FACTIONREBEL and playerCouncil == JediTrials.COUNCIL_DARK)) then
-		self:giveWrongFactionWarning(pPlayer, playerCouncil)
-		return 0
-	end
+--	if ((playerFaction == FACTIONIMPERIAL and playerCouncil == JediTrials.COUNCIL_LIGHT) or (playerFaction == FACTIONREBEL and playerCouncil == JediTrials.COUNCIL_DARK)) then
+--		self:giveWrongFactionWarning(pPlayer, playerCouncil)
+--		return 0
+--	end
 
 	local huntTarget = readScreenPlayData(pPlayer, "JediTrials", "huntTarget")
 	local targetCount = tonumber(readScreenPlayData(pPlayer, "JediTrials", "huntTargetCount"))
@@ -334,12 +334,12 @@ function KnightTrials:showCurrentTrial(pPlayer)
 	local playerFaction = CreatureObject(pPlayer):getFaction()
 	local playerCouncil = JediTrials:getJediCouncil(pPlayer)
 
-	if (trialData.trialType == TRIAL_HUNT or trialData.trialType == TRIAL_HUNT_FACTION) then
-		if ((playerFaction == FACTIONIMPERIAL and playerCouncil == JediTrials.COUNCIL_LIGHT) or (playerFaction == FACTIONREBEL and playerCouncil == JediTrials.COUNCIL_DARK)) then
-			self:giveWrongFactionWarning(pPlayer, playerCouncil)
-			return
-		end
-	end
+--	if (trialData.trialType == TRIAL_HUNT or trialData.trialType == TRIAL_HUNT_FACTION) then
+--		if ((playerFaction == FACTIONIMPERIAL and playerCouncil == JediTrials.COUNCIL_LIGHT) or (playerFaction == FACTIONREBEL and playerCouncil == JediTrials.COUNCIL_DARK)) then
+--			self:giveWrongFactionWarning(pPlayer, playerCouncil)
+--			return
+--		end
+--	end
 
 	local huntTarget = readScreenPlayData(pPlayer, "JediTrials", "huntTarget")
 	local targetCount = tonumber(readScreenPlayData(pPlayer, "JediTrials", "huntTargetCount"))
@@ -477,31 +477,4 @@ function KnightTrials:resetCompletedTrialsToStart(pPlayer)
 	JediTrials:setStartedTrials(pPlayer)
 	JediTrials:setTrialsCompleted(pPlayer, 0)
 	JediTrials:setCurrentTrial(pPlayer, 0)
-end
-
-function KnightTrials:resetCompletedTrialsToCurrent(pPlayer)
-	if (pPlayer == nil) then
-		return
-	end
-
-	local curTrial = JediTrials:getCurrentTrial(pPlayer)
-	local compTrial = curTrial - 1
-
-	JediTrials:resetTrialData(pPlayer, "knight")
-	deleteScreenPlayData(pPlayer, "KnightTrials", "completedTrials")
-
-	JediTrials:setStartedTrials(pPlayer)
-	JediTrials:setTrialsCompleted(pPlayer, compTrial)
-	JediTrials:setCurrentTrial(pPlayer, curTrial)
-	dropObserver(KILLEDCREATURE, "KnightTrials", "notifyKilledHuntTarget", pPlayer)
-	createObserver(KILLEDCREATURE, "KnightTrials", "notifyKilledHuntTarget", pPlayer)
-end
-
-function KnightTrials:resetCurrentTrialObservers(pPlayer)
-	if (pPlayer == nil) then
-		return
-	end
-
-	dropObserver(KILLEDCREATURE, "KnightTrials", "notifyKilledHuntTarget", pPlayer)
-	createObserver(KILLEDCREATURE, "KnightTrials", "notifyKilledHuntTarget", pPlayer)
 end
