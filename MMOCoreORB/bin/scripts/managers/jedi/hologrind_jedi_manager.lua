@@ -209,6 +209,16 @@ function HologrindJediManager:registerObservers(pCreatureObject)
 	createObserver(BADGEAWARDED, "HologrindJediManager", "badgeAwardedEventHandler", pCreatureObject)
 end
 
+    --100% fix for knight trial progress
+                        local trialNumber = JediTrials:getCurrentTrial(pCreatur>
+                        local trialData = knightTrialQuests[trialNumber]
+
+                        if (trialData.trialType == TRIAL_HUNT or trialData.tria>
+                                createObserver(KILLEDCREATURE, "KnightTrials", >
+                        end
+
+
+
 -- Handling of the onPlayerLoggedIn event. The progression of the player will be checked and observers will be registered.
 -- @param pCreatureObject pointer to the creature object of the player who logged in.
 function HologrindJediManager:onPlayerLoggedIn(pCreatureObject)
