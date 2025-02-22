@@ -50,8 +50,8 @@ legendaryChance = 10		--1000000 --1 in 1,000,000
 
 --Determines how much of an increase in the base stats will be applied to the object.
 yellowModifier = 1.5		-- 1.5
-exceptionalModifier = 2		-- 2.5
-legendaryModifier = 3		-- 5.0
+exceptionalModifier = 2.5		-- 2.5
+legendaryModifier = 5.0		-- 5.0
 
 --The chance for random skill mods to be on looted weapons/wearables
 skillModChance = 1 -- 500 -- 1 in 500
