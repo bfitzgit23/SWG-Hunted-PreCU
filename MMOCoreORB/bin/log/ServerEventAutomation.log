@@ -500,3 +500,11 @@ Sat Feb 22 01:34:47 2025 [ServerEventAutomation] playerEvent Jinn (account_id: 1
 Sat Feb 22 02:13:43 2025 [ServerEventAutomation] playerEvent Jinn (account_id: 1, oid: 281475005020519, played: 3h 52m 52s, session: 38m 55s) on tatooine at -5275 -6549 - playerLoggedOut
 Sat Feb 22 02:13:45 2025 [ServerEventAutomation] playerEvent Jinn (account_id: 1, oid: 281475005020519, played: 3h 52m 53s, session: 0s) on tatooine at -5275 -6549 - playerLoggedIn
 Sat Feb 22 02:15:01 2025 [ServerEventAutomation] playerEvent Jinn (account_id: 1, oid: 281475005020519, played: 3h 54m 10s, session: 1m 17s) on tatooine at -5275 -6550 - playerLoggedOut
+Sat Feb 22 02:47:25 2025 [ServerEventAutomation] playerEvent Jinn (account_id: 1, oid: 281475005020519, played: 3h 53m 24s, session: 0s) on tatooine at -5275 -6550 - playerLoggedOut
+Sat Feb 22 02:47:25 2025 [ServerEventAutomation] playerEvent Jinn (account_id: 1, oid: 281475005020519, played: 3h 53m 25s, session: 0s) on tatooine at -5275 -6550 - playerLoggedIn
+Sat Feb 22 02:47:26 2025 [ServerEventAutomation] playerEvent Cia (account_id: 51, oid: 281475004486545, played: 10h 7m 33s, session: 0s) on tatooine at -3968 6237 - playerLoggedIn
+Sat Feb 22 02:50:42 2025 [ServerEventAutomation] playerEvent Jinn (account_id: 1, oid: 281475005020519, played: 3h 56m 41s, session: 3m 16s) on tatooine at -5275 -6550 - playerLoggedOut
+Sat Feb 22 02:50:43 2025 [ServerEventAutomation] playerEvent Jinn (account_id: 1, oid: 281475005020519, played: 3h 56m 42s, session: 0s) on tatooine at -5275 -6550 - playerLoggedIn
+Sat Feb 22 03:00:02 2025 [ServerEventAutomation] playerEvent Jinn (account_id: 1, oid: 281475005020519, played: 4h 6m 2s, session: 9m 19s) on tatooine at -5275 -6550 - playerLoggedOut
+Sat Feb 22 03:06:02 2025 [ServerEventAutomation] playerEvent Cia (account_id: 51, oid: 281475004486545, played: 10h 26m 7s, session: 18m 34s) on tatooine at -4089 5656 - playerLoggedOut
+Sat Feb 22 03:10:46 2025 [ServerEventAutomation] playerEvent Jinn (account_id: 1, oid: 281475005020519, played: 4h 6m 3s, session: 0s) on tatooine at -5275 -6550 - playerLoggedIn
