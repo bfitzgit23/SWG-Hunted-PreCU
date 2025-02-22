@@ -1,14 +1,13 @@
 JediManager = require("managers.jedi.jedi_manager")
 local ObjectManager = require("managers.object.object_manager")
-local PlayerManager = require("managers.player_manager")
 
 jediManagerName = "HologrindJediManager"
 
-NUMBEROFPROFESSIONSTOMASTER = 1 --this is now how many profs are selected
+NUMBEROFPROFESSIONSTOMASTER = 1
 MAXIMUMNUMBEROFPROFESSIONSTOSHOWWITHHOLOCRON = 3
 
 USEDHOLOCRON = "used_holocron"
-HOLOCRONCOOLDOWNTIME = 60 * 60 * 1000 -- 1 hour
+HOLOCRONCOOLDOWNTIME = 60 * 60 * 1000 -- 24 hours
 
 HologrindJediManager = JediManager:new {
 	screenplayName = jediManagerName,
