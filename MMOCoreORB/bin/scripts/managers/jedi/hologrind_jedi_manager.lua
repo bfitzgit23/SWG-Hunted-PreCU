@@ -8,7 +8,7 @@ NUMBEROFPROFESSIONSTOMASTER = 1 --this is now how many profs are selected
 MAXIMUMNUMBEROFPROFESSIONSTOSHOWWITHHOLOCRON = 3
 
 USEDHOLOCRON = "used_holocron"
-HOLOCRONCOOLDOWNTIME = 24 * 60 * 60 * 1000 -- 24 hours
+HOLOCRONCOOLDOWNTIME = 60 * 60 * 1000 -- 1 hour
 
 HologrindJediManager = JediManager:new {
 	screenplayName = jediManagerName,
