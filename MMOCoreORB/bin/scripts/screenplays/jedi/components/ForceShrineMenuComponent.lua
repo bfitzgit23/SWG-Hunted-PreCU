@@ -5,6 +5,7 @@ function ForceShrineMenuComponent:fillObjectMenuResponse(pSceneObject, pMenuResp
 
 	if (CreatureObject(pPlayer):hasSkill("force_title_jedi_novice")) then
 		menuResponse:addRadialMenuItem(120, 3, "@jedi_trials:meditate") -- Meditate
+		menuResponse:addRadialMenuItem(122, 3, "Check unlock professions.")
 	end
 
 	if (CreatureObject(pPlayer):hasSkill("force_title_jedi_rank_02")) then
