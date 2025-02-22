@@ -1,0 +1,105 @@
+Fri Feb 21 23:48:36 2025 [1740203316509 msec] (8 s) Thread 2 - [DirectorManagerLuaInstance] ERROR - Attempted to read screen play data from a non-player Scene Object using screenplay JediTrials and variable currentTrial
+stack traceback:
+	[C]: in function 'readScreenPlayData'
+	scripts/screenplays/jedi/jedi_trials.lua:404: in method 'getCurrentTrial'
+	scripts/managers/jedi/hologrind_jedi_manager.lua:207: in main chunk
+Fri Feb 21 23:48:39 2025 [1740203319783 msec] (12 s) Thread 10 - [DirectorManagerLuaInstance] ERROR - Attempted to read screen play data from a non-player Scene Object using screenplay JediTrials and variable currentTrial
+stack traceback:
+	[C]: in function 'readScreenPlayData'
+	scripts/screenplays/jedi/jedi_trials.lua:404: in method 'getCurrentTrial'
+	scripts/managers/jedi/hologrind_jedi_manager.lua:207: in main chunk
+Fri Feb 21 23:48:40 2025 [1740203320062 msec] (12 s) Thread 7 - [DirectorManagerLuaInstance] ERROR - Attempted to read screen play data from a non-player Scene Object using screenplay JediTrials and variable currentTrial
+stack traceback:
+	[C]: in function 'readScreenPlayData'
+	scripts/screenplays/jedi/jedi_trials.lua:404: in method 'getCurrentTrial'
+	scripts/managers/jedi/hologrind_jedi_manager.lua:207: in main chunk
+Fri Feb 21 23:48:40 2025 [1740203320346 msec] (12 s) Thread 3 - [DirectorManagerLuaInstance] ERROR - Attempted to read screen play data from a non-player Scene Object using screenplay JediTrials and variable currentTrial
+stack traceback:
+	[C]: in function 'readScreenPlayData'
+	scripts/screenplays/jedi/jedi_trials.lua:404: in method 'getCurrentTrial'
+	scripts/managers/jedi/hologrind_jedi_manager.lua:207: in main chunk
+Fri Feb 21 23:48:40 2025 [1740203320550 msec] (12 s) Thread 8 - [DirectorManagerLuaInstance] ERROR - Attempted to read screen play data from a non-player Scene Object using screenplay JediTrials and variable currentTrial
+stack traceback:
+	[C]: in function 'readScreenPlayData'
+	scripts/screenplays/jedi/jedi_trials.lua:404: in method 'getCurrentTrial'
+	scripts/managers/jedi/hologrind_jedi_manager.lua:207: in main chunk
+Fri Feb 21 23:48:41 2025 [1740203321868 msec] (14 s) Thread 6 - [DirectorManagerLuaInstance] ERROR - Attempted to read screen play data from a non-player Scene Object using screenplay JediTrials and variable currentTrial
+stack traceback:
+	[C]: in function 'readScreenPlayData'
+	scripts/screenplays/jedi/jedi_trials.lua:404: in method 'getCurrentTrial'
+	scripts/managers/jedi/hologrind_jedi_manager.lua:207: in main chunk
+Fri Feb 21 23:48:54 2025 [1740203334976 msec] (27 s) Thread 50 - [DirectorManagerLuaInstance] ERROR - Attempted to read screen play data from a non-player Scene Object using screenplay JediTrials and variable currentTrial
+stack traceback:
+	[C]: in function 'readScreenPlayData'
+	scripts/screenplays/jedi/jedi_trials.lua:404: in method 'getCurrentTrial'
+	scripts/managers/jedi/hologrind_jedi_manager.lua:207: in main chunk
+Fri Feb 21 23:48:54 2025 [1740203334981 msec] (27 s) Thread 52 - [DirectorManagerLuaInstance] ERROR - Attempted to read screen play data from a non-player Scene Object using screenplay JediTrials and variable currentTrial
+stack traceback:
+	[C]: in function 'readScreenPlayData'
+	scripts/screenplays/jedi/jedi_trials.lua:404: in method 'getCurrentTrial'
+	scripts/managers/jedi/hologrind_jedi_manager.lua:207: in main chunk
+Fri Feb 21 23:48:55 2025 [1740203335377 msec] (27 s) Thread 44 - [DirectorManagerLuaInstance] ERROR - Attempted to read screen play data from a non-player Scene Object using screenplay JediTrials and variable currentTrial
+stack traceback:
+	[C]: in function 'readScreenPlayData'
+	scripts/screenplays/jedi/jedi_trials.lua:404: in method 'getCurrentTrial'
+	scripts/managers/jedi/hologrind_jedi_manager.lua:207: in main chunk
+Fri Feb 21 23:48:56 2025 [1740203336638 msec] (28 s) Thread 55 - [DirectorManagerLuaInstance] ERROR - Attempted to read screen play data from a non-player Scene Object using screenplay JediTrials and variable currentTrial
+stack traceback:
+	[C]: in function 'readScreenPlayData'
+	scripts/screenplays/jedi/jedi_trials.lua:404: in method 'getCurrentTrial'
+	scripts/managers/jedi/hologrind_jedi_manager.lua:207: in main chunk
+Fri Feb 21 23:48:58 2025 [1740203338099 msec] (30 s) Thread 53 - [DirectorManagerLuaInstance] ERROR - Attempted to read screen play data from a non-player Scene Object using screenplay JediTrials and variable currentTrial
+stack traceback:
+	[C]: in function 'readScreenPlayData'
+	scripts/screenplays/jedi/jedi_trials.lua:404: in method 'getCurrentTrial'
+	scripts/managers/jedi/hologrind_jedi_manager.lua:207: in main chunk
+Fri Feb 21 23:49:01 2025 [1740203341022 msec] (33 s) Thread 51 - [DirectorManagerLuaInstance] ERROR - Attempted to read screen play data from a non-player Scene Object using screenplay JediTrials and variable currentTrial
+stack traceback:
+	[C]: in function 'readScreenPlayData'
+	scripts/screenplays/jedi/jedi_trials.lua:404: in method 'getCurrentTrial'
+	scripts/managers/jedi/hologrind_jedi_manager.lua:207: in main chunk
+Fri Feb 21 23:49:05 2025 [1740203345249 msec] (37 s) Thread 49 - [DirectorManagerLuaInstance] ERROR - Attempted to read screen play data from a non-player Scene Object using screenplay JediTrials and variable currentTrial
+stack traceback:
+	[C]: in function 'readScreenPlayData'
+	scripts/screenplays/jedi/jedi_trials.lua:404: in method 'getCurrentTrial'
+	scripts/managers/jedi/hologrind_jedi_manager.lua:207: in main chunk
+Fri Feb 21 23:49:06 2025 [1740203346166 msec] (38 s) Thread 5 - [DirectorManagerLuaInstance] ERROR - Attempted to read screen play data from a non-player Scene Object using screenplay JediTrials and variable currentTrial
+stack traceback:
+	[C]: in function 'readScreenPlayData'
+	scripts/screenplays/jedi/jedi_trials.lua:404: in method 'getCurrentTrial'
+	scripts/managers/jedi/hologrind_jedi_manager.lua:207: in main chunk
+Fri Feb 21 23:49:06 2025 [1740203346172 msec] (38 s) Thread 4 - [DirectorManagerLuaInstance] ERROR - Attempted to read screen play data from a non-player Scene Object using screenplay JediTrials and variable currentTrial
+stack traceback:
+	[C]: in function 'readScreenPlayData'
+	scripts/screenplays/jedi/jedi_trials.lua:404: in method 'getCurrentTrial'
+	scripts/managers/jedi/hologrind_jedi_manager.lua:207: in main chunk
+Fri Feb 21 23:49:06 2025 [1740203346426 msec] (38 s) Thread 9 - [DirectorManagerLuaInstance] ERROR - Attempted to read screen play data from a non-player Scene Object using screenplay JediTrials and variable currentTrial
+stack traceback:
+	[C]: in function 'readScreenPlayData'
+	scripts/screenplays/jedi/jedi_trials.lua:404: in method 'getCurrentTrial'
+	scripts/managers/jedi/hologrind_jedi_manager.lua:207: in main chunk
+Fri Feb 21 23:49:44 2025 [1740203384331 msec] (76 s) Thread 28 - [DirectorManagerLuaInstance] ERROR - Attempted to read screen play data from a non-player Scene Object using screenplay JediTrials and variable currentTrial
+stack traceback:
+	[C]: in function 'readScreenPlayData'
+	scripts/screenplays/jedi/jedi_trials.lua:404: in method 'getCurrentTrial'
+	scripts/managers/jedi/hologrind_jedi_manager.lua:207: in main chunk
+Fri Feb 21 23:49:48 2025 [1740203388404 msec] (80 s) Thread 56 - [DirectorManagerLuaInstance] ERROR - Attempted to read screen play data from a non-player Scene Object using screenplay JediTrials and variable currentTrial
+stack traceback:
+	[C]: in function 'readScreenPlayData'
+	scripts/screenplays/jedi/jedi_trials.lua:404: in method 'getCurrentTrial'
+	scripts/managers/jedi/hologrind_jedi_manager.lua:207: in main chunk
+Sat Feb 22 00:03:10 2025 [1740204190901 msec] (883 s) Thread 27 - [DirectorManagerLuaInstance] ERROR - Attempted to read screen play data from a non-player Scene Object using screenplay JediTrials and variable currentTrial
+stack traceback:
+	[C]: in function 'readScreenPlayData'
+	scripts/screenplays/jedi/jedi_trials.lua:404: in method 'getCurrentTrial'
+	scripts/managers/jedi/hologrind_jedi_manager.lua:207: in main chunk
+Sat Feb 22 00:03:59 2025 [1740204239469 msec] (931 s) Thread 26 - [DirectorManagerLuaInstance] ERROR - Attempted to read screen play data from a non-player Scene Object using screenplay JediTrials and variable currentTrial
+stack traceback:
+	[C]: in function 'readScreenPlayData'
+	scripts/screenplays/jedi/jedi_trials.lua:404: in method 'getCurrentTrial'
+	scripts/managers/jedi/hologrind_jedi_manager.lua:207: in main chunk
+Sat Feb 22 00:07:41 2025 [1740204461735 msec] (1153 s) Thread 29 - [DirectorManagerLuaInstance] ERROR - Attempted to read screen play data from a non-player Scene Object using screenplay JediTrials and variable currentTrial
+stack traceback:
+	[C]: in function 'readScreenPlayData'
+	scripts/screenplays/jedi/jedi_trials.lua:404: in method 'getCurrentTrial'
+	scripts/managers/jedi/hologrind_jedi_manager.lua:207: in main chunk
