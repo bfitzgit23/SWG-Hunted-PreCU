@@ -1323,6 +1323,9 @@ float CombatManager::applyDamageModifiers(CreatureObject* attacker, WeaponObject
 
 	int damageDivisor = attacker->getSkillMod("private_damage_divisor");
 
+	if (data.isForceAttack() && (attacker->hasSkill("hunted_jedi_elder_dark_powers_04") || attacker->hasSkill("hunted_jedi_elder_light_powers_04")))
+        damageDivisor = 0;
+	
 	if (damageDivisor != 0)
 		damage /= damageDivisor;
 
