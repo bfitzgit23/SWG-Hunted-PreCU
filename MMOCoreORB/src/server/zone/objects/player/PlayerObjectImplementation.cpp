@@ -1585,10 +1585,6 @@ void PlayerObjectImplementation::notifyOnline() {
     SkillManager::instance()->removeAbility(ghost, "totalHealOther", true);
 	}
 
-    if (ghost != nullptr && ghost->getRatingReset() != 1){
-        ghost->setPvpRating(1200);
-        ghost->setRatingReset(1);
-    }
     playerCreature->schedulePersonalEnemyFlagTasks();
 	
 	playerCreature->schedulePersonalEnemyFlagTasks();
