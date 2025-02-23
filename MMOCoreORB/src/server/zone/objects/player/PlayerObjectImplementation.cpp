@@ -1571,17 +1571,17 @@ void PlayerObjectImplementation::notifyOnline() {
 
 	//Remove FR2 from Jedi
     ManagedReference<PlayerObject*> ghost = playerCreature->getPlayerObject();
-    if (ghost != nullptr && playerCreature->hasSkill("force_title_jedi_rank_02") && ghost->hasAbility("forceRun2") && !(playerCreature->hasSkill("frs_post9_light_enhancer_04")  playerCreature->hasSkill("frs_post9_dark_enhancer_04"))){
+    if (ghost != nullptr && playerCreature->hasSkill("force_title_jedi_rank_02") && ghost->hasAbility("forceRun2") && !(playerCreature->hasSkill("hunted_jedi_elder_light_enhancer_04")  playerCreature->hasSkill("hunted_jedi_elder_dark_enhancer_04"))){
         SkillManager::instance()->removeAbility(ghost, "forceRun2", true);
     }
 
     //Remove TotalhealSelf from non-frs Jedi
-    if (ghost != nullptr && playerCreature->hasSkill("force_title_jedi_rank_02") && ghost->hasAbility("totalHealSelf") && !(playerCreature->hasSkill("hunted_jedi_elder_light_healing_04")  playerCreature->hasSkill("frs_post9_dark_healing_04"))){
+    if (ghost != nullptr && playerCreature->hasSkill("force_title_jedi_rank_02") && ghost->hasAbility("totalHealSelf") && !(playerCreature->hasSkill("hunted_jedi_elder_light_healing_04")  playerCreature->hasSkill("hunted_jedi_elder_dark_healing_04"))){
         SkillManager::instance()->removeAbility(ghost, "totalHealSelf", true);
     }
 
     //Remove TotalhealSelf from non-frs Jedi
-    if (ghost != nullptr && playerCreature->hasSkill("force_title_jedi_rank_02") && ghost->hasAbility("totalHealOther") && !(playerCreature->hasSkill("hunted_jedi_elder_light_healing_04") || playerCreature->hasSkill("frs_post9_dark_healing_04"))){
+    if (ghost != nullptr && playerCreature->hasSkill("force_title_jedi_rank_02") && ghost->hasAbility("totalHealOther") && !(playerCreature->hasSkill("hunted_jedi_elder_light_healing_04") || playerCreature->hasSkill("hunted_jedi_elder_dark_healing_04"))){
         SkillManager::instance()->removeAbility(ghost, "totalHealOther", true);
     }
 
