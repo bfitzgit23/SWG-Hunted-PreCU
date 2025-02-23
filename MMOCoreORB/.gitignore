@@ -39,7 +39,6 @@ src/server/zone/Makefile
 tags
 utils/gtest-1.6.0/*
 ../*
-bin/conf/*
 .*.swp
 .ycm_extra_conf.py*
 sql/insert_strings.sql
