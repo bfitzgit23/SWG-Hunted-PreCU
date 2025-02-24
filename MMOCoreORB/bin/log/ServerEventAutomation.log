@@ -905,3 +905,18 @@ Sun Feb 23 17:54:19 2025 [ServerEventAutomation] playerEvent Weka (account_id: 5
 Sun Feb 23 17:55:49 2025 [ServerEventAutomation] playerEvent Weka (account_id: 52, oid: 281475005020554, played: 1h 50m 50s, session: 0s) on naboo at 4876 6080 - playerLoggedIn
 Sun Feb 23 18:05:29 2025 [ServerEventAutomation] playerEvent Negan (account_id: 46, oid: 281475005578047, played: 17h 0m 13s, session: 44m 20s) on yavin4 at 5014 312 - playerLoggedOut
 Sun Feb 23 18:05:32 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475005020149, played: 11h 28m 18s, session: 0s) on naboo at 5190 6676 - playerLoggedIn
+Sun Feb 23 18:10:59 2025 [ServerEventAutomation] playerEvent Weka (account_id: 52, oid: 281475005020554, played: 2h 6m 0s, session: 15m 9s) on talus at 4510 5160 - playerLoggedOut
+Sun Feb 23 18:10:59 2025 [ServerEventAutomation] playerEvent Weka (account_id: 52, oid: 281475005020554, played: 2h 6m 0s, session: 15m 9s) on talus at 4510 5160 - playerLoggedOut
+Sun Feb 23 18:11:04 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475005020149, played: 11h 33m 49s, session: 5m 30s) on corellia at 6770 -5721 - playerLoggedOut
+Sun Feb 23 18:13:29 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475006778818, played: 1h 52m 17s, session: 27m 32s) on tatooine at -5052 -6629 - playerLoggedOut
+Sun Feb 23 18:14:08 2025 [ServerEventAutomation] playerEvent Pamina (account_id: 51, oid: 281475006778664, played: 3h 18m 7s, session: 32m 23s) on  at 5206 6664 - playerLoggedOut
+Sun Feb 23 18:17:21 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475006778818, played: 1h 52m 18s, session: 0s) on tatooine at -5052 -6629 - playerLoggedIn
+Sun Feb 23 18:17:43 2025 [ServerEventAutomation] playerEvent Negan (account_id: 46, oid: 281475005578047, played: 17h 0m 14s, session: 0s) on yavin4 at 5079 305 - playerLoggedIn
+Sun Feb 23 18:19:44 2025 [ServerEventAutomation] playerEvent Negan (account_id: 46, oid: 281475005578047, played: 17h 2m 15s, session: 2m 1s) on yavin4 at 5071 309 - playerLoggedOut
+Sun Feb 23 18:19:46 2025 [ServerEventAutomation] playerEvent Negan (account_id: 46, oid: 281475005578047, played: 17h 2m 16s, session: 0s) on yavin4 at 5071 309 - playerLoggedIn
+Sun Feb 23 18:20:09 2025 [ServerEventAutomation] playerEvent Negan (account_id: 46, oid: 281475005578047, played: 17h 2m 39s, session: 23s) on yavin4 at 5152 246 - playerLoggedOut
+Sun Feb 23 18:20:12 2025 [ServerEventAutomation] playerEvent Negan (account_id: 46, oid: 281475005578047, played: 17h 2m 40s, session: 0s) on yavin4 at 5152 246 - playerLoggedIn
+Sun Feb 23 18:20:41 2025 [ServerEventAutomation] playerEvent Negan (account_id: 46, oid: 281475005578047, played: 17h 3m 9s, session: 28s) on yavin4 at 5347 269 - playerLoggedOut
+Sun Feb 23 18:20:45 2025 [ServerEventAutomation] playerEvent Negan (account_id: 46, oid: 281475005578047, played: 17h 3m 10s, session: 0s) on yavin4 at 5347 269 - playerLoggedIn
+Sun Feb 23 18:21:41 2025 [ServerEventAutomation] playerEvent Weka (account_id: 52, oid: 281475005020554, played: 2h 6m 1s, session: 0s) on talus at 4510 5160 - playerLoggedIn
+Sun Feb 23 18:29:19 2025 [ServerEventAutomation] playerEvent Negan (account_id: 46, oid: 281475005578047, played: 17h 11m 44s, session: 8m 34s) on yavin4 at 5098 304 - playerLoggedOut
