@@ -91,5 +91,3 @@ function  mission_level_choice:levelSelection(pPlayer, pSui, eventIndex, args)
 	end
 
 end
-mission_level_choice.lua
-4 KB
