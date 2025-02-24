@@ -149,11 +149,8 @@ Core3 = {
 	------TRE config------
 	TrePath = "/root/Downloads/SWG-origins-precu/SWGEmu",
 	TreFiles = {
-		"default_patch.tre",
-		"hunted_2.tre",
 		"hunted_1.tre",
-		"aftermath_house.tre",
-		"aftermath_NGE.tre",
+		"default_patch.tre",
 		"patch_sku1_14_00.tre",
 		"patch_14_00.tre",
 		"patch_sku1_13_00.tre",
@@ -246,7 +243,7 @@ Core3 = {
 	UnloadContainers = 1, -- Whether to unload container contents from RAM after the container hasn't been accessed for a time
 
 	------Server Config------
-	CharacterBuilderEnabled = "true",
+	CharacterBuilderEnabled = "false",
 	AutoReg = 0,
 
 	------TOS Config------

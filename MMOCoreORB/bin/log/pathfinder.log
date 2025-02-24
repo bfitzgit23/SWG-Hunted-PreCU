@@ -118,3 +118,6 @@ Sun Feb 23 08:23:40 2025 [1740320620764 msec] (32303 s) Thread 48 - [PathFinderM
 Sun Feb 23 08:23:46 2025 [1740320626885 msec] (32309 s) Thread 48 - [PathFinderManager] ERROR - findPathFromCellToDifferentCellCould not find path from 0x7fe863818a10 to 0x7fe7bc5026a0 in building: object/building/general/bunker_allum_mine.iff
 Sun Feb 23 09:37:27 2025 [1740325047013 msec] (70 s) Thread 48 - [PathFinderManager] ERROR - findPathFromCellToDifferentCellCould not find path from 0x7f7f13791be0 to 0x7f7f13c24ab0 in building: object/building/general/bunker_allum_mine.iff
 Sun Feb 23 12:11:30 2025 [1740334290131 msec] (9313 s) Thread 48 - [PathFinderManager] ERROR - findPathFromCellToDifferentCellCould not find path from 0x7f7f13791be0 to 0x7f7f13c24ab0 in building: object/building/general/bunker_allum_mine.iff
+Mon Feb 24 10:06:58 2025 [1740413218259 msec] (38155 s) Thread 44 - [PathFinderManager] ERROR - findPathWithinCell - path nullptr
+Mon Feb 24 10:24:06 2025 [1740414246967 msec] (39184 s) Thread 44 - [PathFinderManager] ERROR - findPathWithinCell - path nullptr
+Mon Feb 24 10:24:06 2025 [1740414246969 msec] (39184 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCellCould not find path from 0x7f2e14548390 to 0x7f2e143a9bd0 in building: object/building/player/player_guildhall_corellia_style_01.iff

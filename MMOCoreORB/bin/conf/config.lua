@@ -149,11 +149,8 @@ Core3 = {
 	------TRE config------
 	TrePath = "/root/Downloads/SWG-origins-precu/SWGEmu",
 	TreFiles = {
-		"default_patch.tre",
-		"hunted_2.tre",
 		"hunted_1.tre",
-		"aftermath_house.tre",
-		"aftermath_NGE.tre",
+		"default_patch.tre",
 		"patch_sku1_14_00.tre",
 		"patch_14_00.tre",
 		"patch_sku1_13_00.tre",
