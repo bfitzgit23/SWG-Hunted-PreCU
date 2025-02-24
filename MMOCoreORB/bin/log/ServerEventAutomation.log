@@ -1098,3 +1098,47 @@ Mon Feb 24 15:21:26 2025 [ServerEventAutomation] playerEvent Randolo (account_id
 Mon Feb 24 15:23:16 2025 [ServerEventAutomation] playerEvent Randolo (account_id: 50, oid: 281475007063729, played: 3h 54m 57s, session: 1m 49s) on tatooine at -3624 5279 - playerLoggedOut
 Mon Feb 24 15:26:08 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475007108297, played: 18m 38s, session: 8m 4s) on corellia at -133 -5628 - playerLoggedOut
 Mon Feb 24 15:26:09 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475007108297, played: 18m 39s, session: 0s) on corellia at -133 -5628 - playerLoggedIn
+Mon Feb 24 15:33:43 2025 [ServerEventAutomation] playerEvent Kyia (account_id: 47, oid: 281475004417928, played: 5h 4m 25s, session: 3h 47m 5s) on naboo at 4877 6065 - playerLoggedOut
+Mon Feb 24 15:34:39 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475007108297, played: 27m 9s, session: 8m 29s) on corellia at -133 -5628 - playerLoggedOut
+Mon Feb 24 15:43:44 2025 [ServerEventAutomation] playerEvent Jasmine (account_id: 39, oid: 281475004350157, played: 23h 30m 55s, session: 8h 58m 48s) on corellia at -132 -5621 - playerLoggedOut
+Mon Feb 24 15:44:43 2025 [ServerEventAutomation] playerEvent Isa'Bella (account_id: 39, oid: 281475003589678, played: 1d 13h 26m 13s, session: 9h 2m 34s) on corellia at -133 -5624 - playerLoggedOut
+Mon Feb 24 15:45:51 2025 [ServerEventAutomation] playerEvent Xarina (account_id: 47, oid: 281475004346703, played: 3h 41m 24s, session: 0s) on naboo at 4870 6063 - playerLoggedIn
+Mon Feb 24 15:46:21 2025 [ServerEventAutomation] playerEvent Amaraa (account_id: 39, oid: 281475004348964, played: 14h 50m 26s, session: 8h 58m 9s) on corellia at -156 -5864 - playerLoggedOut
+Mon Feb 24 15:46:28 2025 [ServerEventAutomation] playerEvent Negan (account_id: 46, oid: 281475005578047, played: 22h 5m 24s, session: 4h 5m 20s) on naboo at 4870 6078 - playerLoggedOut
+Mon Feb 24 15:50:41 2025 [ServerEventAutomation] playerEvent Aspen (account_id: 53, oid: 281475006333649, played: 4h 51m 2s, session: 50m 34s) on endor at 5116 1923 - playerLoggedOut
+Mon Feb 24 15:51:08 2025 [ServerEventAutomation] playerEvent Aspen (account_id: 53, oid: 281475006333649, played: 4h 51m 3s, session: 0s) on endor at 5116 1923 - playerLoggedIn
+Mon Feb 24 15:51:41 2025 [ServerEventAutomation] playerEvent Xarina (account_id: 47, oid: 281475004346703, played: 3h 47m 14s, session: 5m 49s) on naboo at 4876 6077 - playerLoggedOut
+Mon Feb 24 15:51:48 2025 [ServerEventAutomation] playerEvent Yeshk (account_id: 47, oid: 281475006780749, played: 6h 15m 48s, session: 4h 7m 4s) on naboo at 4874 6082 - playerLoggedOut
+Mon Feb 24 15:52:15 2025 [ServerEventAutomation] playerEvent Aspen (account_id: 53, oid: 281475006333649, played: 4h 52m 10s, session: 1m 7s) on endor at 5116 1923 - playerLoggedOut
+Mon Feb 24 15:56:01 2025 [ServerEventAutomation] playerEvent Xarina (account_id: 47, oid: 281475004346703, played: 3h 47m 14s, session: 0s) on naboo at 4876 6077 - playerLoggedOut
+Mon Feb 24 15:56:01 2025 [ServerEventAutomation] playerEvent Yeshk (account_id: 47, oid: 281475006780749, played: 6h 15m 48s, session: 0s) on naboo at 4874 6082 - playerLoggedOut
+Mon Feb 24 15:56:27 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475007108297, played: 27m 10s, session: 0s) on corellia at -133 -5628 - playerLoggedIn
+Mon Feb 24 15:56:54 2025 [ServerEventAutomation] playerEvent Randolo (account_id: 50, oid: 281475007063729, played: 3h 54m 58s, session: 0s) on tatooine at -3624 5279 - playerLoggedIn
+Mon Feb 24 15:57:44 2025 [ServerEventAutomation] playerEvent Negan (account_id: 46, oid: 281475005578047, played: 22h 5m 25s, session: 0s) on naboo at 4870 6078 - playerLoggedIn
+Mon Feb 24 16:00:31 2025 [ServerEventAutomation] playerEvent Diana (account_id: 46, oid: 281475004346318, played: 15h 51m 45s, session: 0s) on naboo at 4877 6079 - playerLoggedIn
+Mon Feb 24 16:00:43 2025 [ServerEventAutomation] playerEvent Yeshk (account_id: 47, oid: 281475006780749, played: 6h 15m 49s, session: 0s) on naboo at 4874 6082 - playerLoggedIn
+Mon Feb 24 16:00:58 2025 [ServerEventAutomation] playerEvent Randolo (account_id: 50, oid: 281475007063729, played: 3h 59m 2s, session: 4m 4s) on tatooine at -3624 5279 - playerLoggedOut
+Mon Feb 24 16:05:03 2025 [ServerEventAutomation] playerEvent Randolo (account_id: 50, oid: 281475007063729, played: 3h 59m 3s, session: 0s) on tatooine at -3624 5279 - playerLoggedIn
+Mon Feb 24 16:06:20 2025 [ServerEventAutomation] playerEvent Randolo (account_id: 50, oid: 281475007063729, played: 4h 0m 19s, session: 1m 16s) on tatooine at -3623 5279 - playerLoggedOut
+Mon Feb 24 16:09:01 2025 [ServerEventAutomation] playerEvent Diana (account_id: 46, oid: 281475004346318, played: 16h 0m 14s, session: 8m 28s) on naboo at 4875 6078 - playerLoggedOut
+Mon Feb 24 16:12:05 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475007108297, played: 42m 47s, session: 15m 37s) on corellia at -133 -5628 - playerLoggedOut
+Mon Feb 24 16:17:24 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475007108297, played: 42m 48s, session: 0s) on corellia at -133 -5628 - playerLoggedIn
+Mon Feb 24 16:18:30 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475007108297, played: 43m 54s, session: 1m 6s) on corellia at -133 -5628 - playerLoggedOut
+Mon Feb 24 16:23:58 2025 [ServerEventAutomation] playerEvent SlimmyJames (account_id: 38, oid: 281475002929232, played: 23m 24s, session: 0s) on naboo at 4616 -4653 - playerLoggedIn
+Mon Feb 24 16:35:45 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475007108297, played: 43m 55s, session: 0s) on corellia at -133 -5628 - playerLoggedIn
+Mon Feb 24 16:39:05 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475007108297, played: 47m 14s, session: 3m 18s) on corellia at -133 -5628 - playerLoggedOut
+Mon Feb 24 16:39:18 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475007108297, played: 47m 15s, session: 0s) on corellia at -133 -5628 - playerLoggedIn
+Mon Feb 24 17:03:24 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475007108297, played: 1h 11m 20s, session: 24m 4s) on corellia at 6093 -5580 - playerLoggedOut
+Mon Feb 24 17:03:29 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475007108297, played: 1h 11m 21s, session: 0s) on corellia at 6093 -5580 - playerLoggedIn
+Mon Feb 24 17:05:50 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475007108297, played: 1h 13m 43s, session: 2m 22s) on corellia at 6093 -5580 - playerLoggedOut
+Mon Feb 24 17:07:00 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475007108297, played: 1h 13m 44s, session: 0s) on corellia at 6093 -5580 - playerLoggedIn
+Mon Feb 24 17:07:34 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475007108297, played: 1h 14m 18s, session: 34s) on corellia at 6093 -5580 - playerLoggedOut
+Mon Feb 24 17:10:55 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475007108297, played: 1h 14m 19s, session: 0s) on corellia at 6093 -5580 - playerLoggedIn
+Mon Feb 24 17:12:02 2025 [ServerEventAutomation] playerEvent SlimmyJames (account_id: 38, oid: 281475002929232, played: 1h 11m 28s, session: 48m 4s) on corellia at 6095 -5600 - playerLoggedOut
+Mon Feb 24 17:14:54 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475007108297, played: 1h 18m 17s, session: 3m 58s) on corellia at 6093 -5580 - playerLoggedOut
+Mon Feb 24 17:16:03 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475007108297, played: 1h 18m 18s, session: 0s) on corellia at 6093 -5580 - playerLoggedIn
+Mon Feb 24 17:21:42 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475007108297, played: 1h 23m 56s, session: 5m 38s) on corellia at 6093 -5580 - playerLoggedOut
+Mon Feb 24 17:22:40 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475007108297, played: 1h 23m 57s, session: 0s) on corellia at 6093 -5580 - playerLoggedIn
+Mon Feb 24 17:24:46 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475007108297, played: 1h 26m 3s, session: 2m 6s) on corellia at 6090 -5580 - playerLoggedOut
+Mon Feb 24 17:27:31 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475007108297, played: 1h 26m 4s, session: 0s) on corellia at 6090 -5580 - playerLoggedIn
+Mon Feb 24 17:42:50 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475007108297, played: 1h 41m 23s, session: 15m 18s) on corellia at 6090 -5580 - playerLoggedOut
