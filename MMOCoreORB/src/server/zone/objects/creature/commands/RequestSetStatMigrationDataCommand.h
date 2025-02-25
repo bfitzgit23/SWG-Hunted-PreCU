@@ -83,15 +83,11 @@ public:
 			return GENERALERROR;
 		}
 
-		// Player is in the tutorial zone and is allowed to migrate stats.
-		auto zone = creature->getZone();
+		// Player is allowed to migrate stats.
+		session->migrateStats();
 
-		if ((zone != nullptr && zone->getZoneName() == "tutorial") || privilegedPlayer) {
-			session->migrateStats();
-
-			if (privilegedPlayer) {
-				creature->sendSystemMessage("Stat Migration Permitted due to Staff Privileges.");
-			}
+		if (privilegedPlayer) {
+			creature->sendSystemMessage("Stat Migration Permitted due to Staff Privileges.");
 		}
 
 		return SUCCESS;
