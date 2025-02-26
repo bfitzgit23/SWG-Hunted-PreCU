@@ -57,6 +57,11 @@ function JediTrials:isOnKnightTrials(pPlayer)
 		return false
 	end
 
+	-- First check if trials are completed
+	if (tonumber(readScreenPlayData(pPlayer, "KnightTrials", "completedTrials")) == 1) then
+		return false
+	end
+
 	return tonumber(readScreenPlayData(pPlayer, "KnightTrials", "startedTrials")) == 1 and tonumber(readScreenPlayData(pPlayer, "KnightTrials", "completedTrials")) ~= 1
 end
 
@@ -67,13 +72,16 @@ function JediTrials:onPlayerLoggedIn(pPlayer)
 
 	if (CreatureObject(pPlayer):hasSkill("force_title_jedi_rank_03") and tonumber(readScreenPlayData(pPlayer, "KnightTrials", "completedTrials")) ~= 1) then
 		writeScreenPlayData(pPlayer, "KnightTrials", "completedTrials", 1)
+		writeScreenPlayData(pPlayer, "KnightTrials", "startedTrials", 0)
 	end
 
 	if (self:isOnPadawanTrials(pPlayer)) then
 		PadawanTrials:onPlayerLoggedIn(pPlayer)
 	end
 
-	KnightTrials:onPlayerLoggedIn(pPlayer)
+	if (tonumber(readScreenPlayData(pPlayer, "KnightTrials", "completedTrials")) ~= 1) then
+		KnightTrials:onPlayerLoggedIn(pPlayer)
+	end
 end
 
 function JediTrials:droppedSkillDuringTrials(pPlayer, pSkill)
@@ -184,6 +192,7 @@ function JediTrials:unlockJediKnight(pPlayer)
 
 	awardSkill(pPlayer, "force_title_jedi_rank_03")
 	writeScreenPlayData(pPlayer, "KnightTrials", "completedTrials", 1)
+	writeScreenPlayData(pPlayer, "KnightTrials", "startedTrials", 0)
 	CreatureObject(pPlayer):playMusicMessage(unlockMusic)
 	playClientEffectLoc(pPlayer, "clienteffect/trap_electric_01.cef", CreatureObject(pPlayer):getZoneName(), CreatureObject(pPlayer):getPositionX(), CreatureObject(pPlayer):getPositionZ(), CreatureObject(pPlayer):getPositionY(), CreatureObject(pPlayer):getParentID())
 
