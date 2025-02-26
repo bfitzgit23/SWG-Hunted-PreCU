@@ -719,7 +719,7 @@ trainerSkills = {
 	-- Jedi trainers
 
 	trainer_jedi = {
-		"force_discipline_light_saber_novice",
+			"force_discipline_light_saber_novice",
 		"force_discipline_light_saber_master",
 		"force_discipline_light_saber_one_hand_01",
 		"force_discipline_light_saber_one_hand_02",

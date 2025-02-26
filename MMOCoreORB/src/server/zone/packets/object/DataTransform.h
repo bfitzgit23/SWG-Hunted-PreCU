@@ -25,6 +25,7 @@
 class DataTransform : public ObjectControllerMessage {
 public:
 	DataTransform(SceneObject* sceneO) : ObjectControllerMessage(sceneO->getObjectID(), 0x1B, 0x71) {
+
 		insertInt(sceneO->getMovementCounter());
 
 		insertFloat(sceneO->getDirectionX());
@@ -106,7 +107,7 @@ public:
 		debug() << "DataTransform parsed - X: " << transform.getPositionX() << " Z: " << transform.getPositionZ() << " Y: " << transform.getPositionY();
 	}
 
-	void updateError(CreatureObject* creO, const String& message, bool bounceBack = false, float bounceDistance = 0.f) const {
+	void updateError(CreatureObject* creO, const String& message, bool bounceBack = false) const {
 		if (!message.isEmpty() && message.beginsWith("@")) {
 			creO->sendSystemMessage(message);
 		}
@@ -122,23 +123,8 @@ public:
 				creO->updateLocomotion();
 			}
 
-			Vector3 position = validPosition.getPosition();
+			const Vector3& position = validPosition.getPosition();
 			const uint64& parentID = validPosition.getParent();
-
-			if (bounceDistance > 0.f) {
-				float diffX = position.getX() - transform.getPositionX();
-				float diffY = position.getY() - transform.getPositionY();
-
-				float directionAngle = atan2(diffY, diffX);
-
-				if (directionAngle < 0) {
-					float a = M_PI + directionAngle;
-					directionAngle = M_PI + a;
-				}
-
-				position.setX(position.getX() + (cos(directionAngle) * bounceDistance));
-				position.setY(position.getY() + (sin(directionAngle) * bounceDistance));
-			}
 
 			creO->teleport(position.getX(), position.getZ(), position.getY(), parentID);
 		}
@@ -221,12 +207,6 @@ public:
 			return updateError(creO, "!ghost");
 		}
 
-		auto zoneServer = creO->getZoneServer();
-
-		if (zoneServer == nullptr) {
-			return updateError(creO, "!zoneServer");
-		}
-
 		if (!ghost->isForcedTransform()) {
 			if (!transform.isPostureValid(creO->getPosture())) {
 				return updateError(creO, "!posture", true);
@@ -237,9 +217,7 @@ public:
 			}
 		}
 
-		bool privilegedPlayer = ghost->isPrivileged();
-
-		if (!privilegedPlayer) {
+		if (!ghost->isPrivileged()) {
 			if (creO->isFrozen()) {
 				creO->sendSystemMessage("You are frozen and cannot move.");
 				return updateError(creO, "isFrozen", true);
@@ -263,17 +241,13 @@ public:
 			return updateError(creO, "!zone");
 		}
 
-		if (!creO->isMovementAllowed()) {
-			return updateError(creO, "!animationLock", true);
-		}
-
 		ManagedReference<PlanetManager*> planetManager = zone->getPlanetManager();
 
 		if (planetManager == nullptr) {
 			return updateError(creO, "!planetManager");
 		}
 
-		auto playerManager = zoneServer->getPlayerManager();
+		ManagedReference<PlayerManager*> playerManager = server->getPlayerManager();
 
 		if (playerManager == nullptr) {
 			return updateError(creO, "!playerManager");
@@ -281,21 +255,19 @@ public:
 
 		IntersectionResults intersections;
 		CloseObjectsVector* closeObjects = creO->getCloseObjects();
-
 		CollisionManager::getWorldFloorCollisions(transform.getPositionX(), transform.getPositionY() , zone, &intersections, closeObjects);
 
-		float positionZ = planetManager->findClosestWorldFloor(transform.getPositionX(), transform.getPositionY() ,transform.getPositionZ(), creO->getSwimHeight(), &intersections, closeObjects);
+		float positionZ = planetManager->findClosestWorldFloor(transform.getPositionX(), transform.getPositionY(), transform.getPositionZ() , creO->getSwimHeight(), &intersections, closeObjects);
 
-		// Last validated world position
-		Vector3 lastValidatedWorldPosition = validPosition.getWorldPosition(zoneServer);
-
-		float validWorldZ = lastValidatedWorldPosition.getZ();
-		lastValidatedWorldPosition.setZ(0.f);
-
-		// Final Checks for Speed
-		if (!privilegedPlayer && !playerManager->checkSpeedHackTests(creO, ghost, lastValidatedWorldPosition, transform.getPosition(), transform.getTimeStamp(), positionZ, nullptr)) {
-			return updateError(creO, "!DT-checkSpeedHackTests_POS", true);
+		if (!creO->isMovementAllowed()) {
+			return updateError(creO, "!animationLock", true);
 		}
+
+		if (!playerManager->checkSpeedHackTests(creO, ghost, transform.getPosition(), transform.getTimeStamp(), positionZ, nullptr)) {
+			return updateError(creO, "!checkSpeedHackTests_POSITION", true);
+		}
+
+		playerManager->updateSwimmingState(creO, positionZ, &intersections, closeObjects);
 
 		Vector3 position = transform.predictPosition(creO->getPosition(), creO->getDirection(), deltaTime);
 
@@ -304,21 +276,9 @@ public:
 		transform.sendDebug(creO, type, position, deltaTime);
 #endif // TRANSFORM_DEBUG
 
-		float transformSpeed = transform.getSpeed();
-
-		/*
-		if (!privilegedPlayer && ((parent == nullptr && validPosition.getParent() == 0) || (parent != nullptr && (parent->isVehicleObject() || parent->isMount()))) &&
-			!CollisionManager::checkMovementCollision(creO, closeObjects, zone, Vector3(lastValidatedWorldPosition.getX(), lastValidatedWorldPosition.getY(), validWorldZ), Vector3(position.getX(), position.getY(), positionZ))) {
-
-			return updateError(creO, "!DT-checkCollision", true, (transformSpeed < 3.f ? 3.f : transformSpeed));
-		}
-		*/
-
-		playerManager->updateSwimmingState(creO, positionZ, &intersections, closeObjects);
-
 		creO->setPosition(transform.getPositionX(), positionZ, transform.getPositionY());
 		creO->setDirection(transform.getDirection());
-		creO->setCurrentSpeed(transformSpeed);
+		creO->setCurrentSpeed(transform.getSpeed());
 
 		updateTransform(creO, parent, position);
 	}
@@ -347,13 +307,7 @@ public:
 			return updateError(creO, "!ghost");
 		}
 
-		auto zoneServer = creO->getZoneServer();
-
-		if (zoneServer == nullptr) {
-			return updateError(creO, "!zoneServer");
-		}
-
-		auto playerManager = zoneServer->getPlayerManager();
+		ManagedReference<PlayerManager*> playerManager = server->getPlayerManager();
 
 		if (playerManager == nullptr) {
 			return updateError(creO, "!playerManager");
@@ -361,11 +315,8 @@ public:
 
 		auto transformPosition = transform.getPosition();
 
-		Vector3 lastValidatedWorldPosition = validPosition.getWorldPosition(zoneServer);
-		lastValidatedWorldPosition.setZ(0.f);
-
-		if (!ghost->isPrivileged() && !playerManager->checkSpeedHackTests(creO, ghost, lastValidatedWorldPosition, transformPosition, transform.getTimeStamp(), transformPosition.getZ(), nullptr)) {
-			return updateError(creO, "!DT-checkSpeedHackTests_STAT", true);
+		if (!playerManager->checkSpeedHackTests(creO, ghost, transformPosition, transform.getTimeStamp(), transformPosition.getZ(), nullptr)) {
+			return updateError(creO, "!checkSpeedHackTests_STATIC", true);
 		}
 
 		creO->setDirection(direction);

@@ -188,13 +188,13 @@ public:
 			return updateError(creO, "!isPositionValid", true);
 		}
 
-		auto zoneServer = creO->getZoneServer();
-
-		if (zoneServer == nullptr) {
-			return updateError(creO, "!zoneServer");
-		}
-
 		if (creO->isRidingMount()) {
+			ZoneServer* zoneServer = creO->getZoneServer();
+
+			if (zoneServer == nullptr) {
+				return updateError(creO, "!zoneServer");
+			}
+
 			ObjectController* objectController = zoneServer->getObjectController();
 
 			if (objectController == nullptr) {
@@ -234,9 +234,7 @@ public:
 			}
 		}
 
-		bool privilegedPlayer = ghost->isPrivileged();
-
-		if (!privilegedPlayer) {
+		if (!ghost->isPrivileged()) {
 			if (creO->isFrozen()) {
 				creO->sendSystemMessage("You are frozen and cannot move.");
 				return updateError(creO, "isFrozen", true);
@@ -254,7 +252,7 @@ public:
 			}
 		}
 
-		ManagedReference<PlayerManager*> playerManager = zoneServer->getPlayerManager();
+		ManagedReference<PlayerManager*> playerManager = server->getPlayerManager();
 
 		if (playerManager == nullptr) {
 			return updateError(creO, "!playerManager");
@@ -290,7 +288,7 @@ public:
 					return updateError(creO, "!building");
 				}
 
-				if (!privilegedPlayer && !building->isAllowedEntry(creO)) {
+				if (!ghost->isPrivileged() && !building->isAllowedEntry(creO)) {
 					return updateError(creO, "!isAllowedEntry", true);
 				}
 			// Checks for POB Ship
@@ -406,11 +404,8 @@ public:
 			}
 		}
 
-		Vector3 lastValidatedWorldPosition = validPosition.getWorldPosition(zoneServer);
-		lastValidatedWorldPosition.setZ(0.f);
-
-		if (!privilegedPlayer && !playerManager->checkSpeedHackTests(creO, ghost, lastValidatedWorldPosition, transform.getPosition(), transform.getTimeStamp(), transform.getPositionZ(), parent)) {
-			return updateError(creO, "!DTWP_checkSpeedHackTests_POS");
+		if (!playerManager->checkSpeedHackTests(creO, ghost, transform.getPosition(), transform.getTimeStamp(), transform.getPositionZ(), parent)) {
+			return updateError(creO, "!checkSpeedHackTests");
 		}
 
 		Vector3 position = transform.predictPosition(creO->getPosition(), creO->getDirection(), deltaTime);
@@ -446,35 +441,10 @@ public:
 			return updateError(creO, "inertUpdate");
 		}
 
-		auto ghost = creO->getPlayerObject();
-
-		if (ghost == nullptr) {
-			return updateError(creO, "!ghost");
-		}
-
-		auto zoneServer = creO->getZoneServer();
-
-		if (zoneServer == nullptr) {
-			return updateError(creO, "!zoneServer");
-		}
-
-		auto playerManager = zoneServer->getPlayerManager();
-
-		if (playerManager == nullptr) {
-			return updateError(creO, "!playerManager");
-		}
-
 #ifdef TRANSFORM_DEBUG
 		String type = synchronize ? "synchronize" : "static";
 		transform.sendDebug(creO, type, creO->getPosition(), deltaTime);
 #endif // TRANSFORM_DEBUG
-
-		Vector3 lastValidatedWorldPosition = validPosition.getWorldPosition(zoneServer);
-		lastValidatedWorldPosition.setZ(0.f);
-
-		if (!ghost->isPrivileged() && !playerManager->checkSpeedHackTests(creO, ghost, lastValidatedWorldPosition, transform.getPosition(), transform.getTimeStamp(), transform.getPositionZ(), parent)) {
-			return updateError(creO, "!DTWP_checkSpeedHackTests_STAT");
-		}
 
 		Quaternion direction = transform.getDirection();
 

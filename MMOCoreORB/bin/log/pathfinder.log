@@ -7,117 +7,16 @@ Wed Feb 19 18:22:49 2025 [1740010969936 msec] (9863 s) Thread 48 - [PathFinderMa
 Wed Feb 19 18:27:48 2025 [1740011268865 msec] (10162 s) Thread 48 - [PathFinderManager] ERROR - findPathFromCellToDifferentCellCould not find path from 0x7f5903da67f0 to 0x7f58780f7b40 in building: object/building/general/bunker_allum_mine.iff
 Wed Feb 19 18:28:02 2025 [1740011282368 msec] (10175 s) Thread 48 - [PathFinderManager] ERROR - findPathFromCellToDifferentCellCould not find path from 0x7f5903da67f0 to 0x7f5903929d70 in building: object/building/general/bunker_allum_mine.iff
 Wed Feb 19 18:28:13 2025 [1740011293827 msec] (10187 s) Thread 48 - [PathFinderManager] ERROR - findPathFromCellToDifferentCellCould not find path from 0x7f5903da67f0 to 0x7f58780f7b40 in building: object/building/general/bunker_allum_mine.iff
-Sat Feb 22 22:01:45 2025 [1740283305973 msec] (2410 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:01:46 2025 [1740283306375 msec] (2411 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:01:46 2025 [1740283306776 msec] (2411 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:01:47 2025 [1740283307177 msec] (2411 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:01:47 2025 [1740283307578 msec] (2412 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:01:47 2025 [1740283307979 msec] (2412 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:01:48 2025 [1740283308382 msec] (2413 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:01:48 2025 [1740283308783 msec] (2413 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:01:49 2025 [1740283309185 msec] (2413 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:01:49 2025 [1740283309586 msec] (2414 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:01:49 2025 [1740283309987 msec] (2414 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:01:50 2025 [1740283310388 msec] (2415 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:01:50 2025 [1740283310789 msec] (2415 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:01:51 2025 [1740283311190 msec] (2415 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:01:51 2025 [1740283311596 msec] (2416 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:01:51 2025 [1740283311997 msec] (2416 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:01:52 2025 [1740283312406 msec] (2417 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:01:52 2025 [1740283312808 msec] (2417 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:01:53 2025 [1740283313210 msec] (2417 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:01:53 2025 [1740283313612 msec] (2418 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:01:54 2025 [1740283314015 msec] (2418 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:01:54 2025 [1740283314419 msec] (2419 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:01:54 2025 [1740283314821 msec] (2419 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:01:55 2025 [1740283315223 msec] (2419 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:01:55 2025 [1740283315625 msec] (2420 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:01:56 2025 [1740283316027 msec] (2420 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:01:56 2025 [1740283316429 msec] (2421 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:01:56 2025 [1740283316830 msec] (2421 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:01:57 2025 [1740283317232 msec] (2421 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:01:57 2025 [1740283317634 msec] (2422 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:01:58 2025 [1740283318035 msec] (2422 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:01:58 2025 [1740283318437 msec] (2423 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:01:58 2025 [1740283318839 msec] (2423 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:01:59 2025 [1740283319241 msec] (2423 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:01:59 2025 [1740283319643 msec] (2424 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:00 2025 [1740283320045 msec] (2424 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:00 2025 [1740283320446 msec] (2425 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:00 2025 [1740283320849 msec] (2425 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:01 2025 [1740283321250 msec] (2425 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:01 2025 [1740283321653 msec] (2426 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:02 2025 [1740283322055 msec] (2426 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:02 2025 [1740283322456 msec] (2427 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:02 2025 [1740283322859 msec] (2427 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:03 2025 [1740283323260 msec] (2427 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:03 2025 [1740283323662 msec] (2428 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:04 2025 [1740283324064 msec] (2428 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:04 2025 [1740283324466 msec] (2429 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:04 2025 [1740283324868 msec] (2429 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:05 2025 [1740283325268 msec] (2429 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:05 2025 [1740283325669 msec] (2430 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:06 2025 [1740283326070 msec] (2430 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:06 2025 [1740283326473 msec] (2431 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:06 2025 [1740283326874 msec] (2431 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:07 2025 [1740283327277 msec] (2431 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:07 2025 [1740283327678 msec] (2432 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:08 2025 [1740283328081 msec] (2432 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:08 2025 [1740283328482 msec] (2433 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:08 2025 [1740283328885 msec] (2433 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:09 2025 [1740283329289 msec] (2434 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:09 2025 [1740283329690 msec] (2434 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:10 2025 [1740283330091 msec] (2434 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:10 2025 [1740283330493 msec] (2435 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:10 2025 [1740283330895 msec] (2435 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:11 2025 [1740283331299 msec] (2436 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:11 2025 [1740283331700 msec] (2436 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:12 2025 [1740283332101 msec] (2436 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:12 2025 [1740283332503 msec] (2437 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:12 2025 [1740283332904 msec] (2437 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:13 2025 [1740283333306 msec] (2438 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:13 2025 [1740283333707 msec] (2438 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:14 2025 [1740283334109 msec] (2438 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:14 2025 [1740283334511 msec] (2439 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:14 2025 [1740283334913 msec] (2439 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:15 2025 [1740283335315 msec] (2440 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:15 2025 [1740283335716 msec] (2440 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:16 2025 [1740283336119 msec] (2440 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:16 2025 [1740283336522 msec] (2441 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:16 2025 [1740283336924 msec] (2441 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:17 2025 [1740283337326 msec] (2442 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:17 2025 [1740283337726 msec] (2442 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:18 2025 [1740283338130 msec] (2442 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:18 2025 [1740283338533 msec] (2443 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:18 2025 [1740283338936 msec] (2443 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:19 2025 [1740283339338 msec] (2444 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:19 2025 [1740283339739 msec] (2444 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:20 2025 [1740283340142 msec] (2444 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:20 2025 [1740283340542 msec] (2445 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:20 2025 [1740283340943 msec] (2445 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:21 2025 [1740283341344 msec] (2446 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:21 2025 [1740283341745 msec] (2446 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:22 2025 [1740283342146 msec] (2446 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:22 2025 [1740283342547 msec] (2447 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:22 2025 [1740283342948 msec] (2447 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:23 2025 [1740283343350 msec] (2448 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:23 2025 [1740283343750 msec] (2448 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sat Feb 22 22:02:24 2025 [1740283344151 msec] (2448 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCell - no implementation for pathfinding between two separate root parents
-Sun Feb 23 08:07:46 2025 [1740319666258 msec] (31348 s) Thread 48 - [PathFinderManager] ERROR - findPathFromCellToDifferentCellCould not find path from 0x7fe863818a10 to 0x7fe86326e380 in building: object/building/general/bunker_allum_mine.iff
-Sun Feb 23 08:07:52 2025 [1740319672399 msec] (31354 s) Thread 48 - [PathFinderManager] ERROR - findPathFromCellToDifferentCellCould not find path from 0x7fe863818a10 to 0x7fe7bc5026a0 in building: object/building/general/bunker_allum_mine.iff
-Sun Feb 23 08:13:02 2025 [1740319982459 msec] (31664 s) Thread 48 - [PathFinderManager] ERROR - findPathFromCellToDifferentCellCould not find path from 0x7fe863818a10 to 0x7fe86326e380 in building: object/building/general/bunker_allum_mine.iff
-Sun Feb 23 08:13:08 2025 [1740319988580 msec] (31671 s) Thread 48 - [PathFinderManager] ERROR - findPathFromCellToDifferentCellCould not find path from 0x7fe863818a10 to 0x7fe7bc5026a0 in building: object/building/general/bunker_allum_mine.iff
-Sun Feb 23 08:13:08 2025 [1740319988992 msec] (31671 s) Thread 48 - [PathFinderManager] ERROR - findPathFromCellToDifferentCellCould not find path from 0x7fe863818a10 to 0x7fe7bc5026a0 in building: object/building/general/bunker_allum_mine.iff
-Sun Feb 23 08:13:15 2025 [1740319995104 msec] (31677 s) Thread 48 - [PathFinderManager] ERROR - findPathFromCellToDifferentCellCould not find path from 0x7fe863818a10 to 0x7fe7bc5026a0 in building: object/building/general/bunker_allum_mine.iff
-Sun Feb 23 08:18:18 2025 [1740320298350 msec] (31980 s) Thread 48 - [PathFinderManager] ERROR - findPathFromCellToDifferentCellCould not find path from 0x7fe863818a10 to 0x7fe86326e380 in building: object/building/general/bunker_allum_mine.iff
-Sun Feb 23 08:18:24 2025 [1740320304449 msec] (31986 s) Thread 48 - [PathFinderManager] ERROR - findPathFromCellToDifferentCellCould not find path from 0x7fe863818a10 to 0x7fe7bc5026a0 in building: object/building/general/bunker_allum_mine.iff
-Sun Feb 23 08:18:30 2025 [1740320310994 msec] (31993 s) Thread 48 - [PathFinderManager] ERROR - findPathFromCellToDifferentCellCould not find path from 0x7fe863818a10 to 0x7fe7bc5026a0 in building: object/building/general/bunker_allum_mine.iff
-Sun Feb 23 08:23:34 2025 [1740320614226 msec] (32296 s) Thread 48 - [PathFinderManager] ERROR - findPathFromCellToDifferentCellCould not find path from 0x7fe863818a10 to 0x7fe86326e380 in building: object/building/general/bunker_allum_mine.iff
-Sun Feb 23 08:23:34 2025 [1740320614633 msec] (32297 s) Thread 48 - [PathFinderManager] ERROR - findPathFromCellToDifferentCellCould not find path from 0x7fe863818a10 to 0x7fe86326e380 in building: object/building/general/bunker_allum_mine.iff
-Sun Feb 23 08:23:40 2025 [1740320620764 msec] (32303 s) Thread 48 - [PathFinderManager] ERROR - findPathFromCellToDifferentCellCould not find path from 0x7fe863818a10 to 0x7fe7bc5026a0 in building: object/building/general/bunker_allum_mine.iff
-Sun Feb 23 08:23:46 2025 [1740320626885 msec] (32309 s) Thread 48 - [PathFinderManager] ERROR - findPathFromCellToDifferentCellCould not find path from 0x7fe863818a10 to 0x7fe7bc5026a0 in building: object/building/general/bunker_allum_mine.iff
-Sun Feb 23 09:37:27 2025 [1740325047013 msec] (70 s) Thread 48 - [PathFinderManager] ERROR - findPathFromCellToDifferentCellCould not find path from 0x7f7f13791be0 to 0x7f7f13c24ab0 in building: object/building/general/bunker_allum_mine.iff
-Sun Feb 23 12:11:30 2025 [1740334290131 msec] (9313 s) Thread 48 - [PathFinderManager] ERROR - findPathFromCellToDifferentCellCould not find path from 0x7f7f13791be0 to 0x7f7f13c24ab0 in building: object/building/general/bunker_allum_mine.iff
-Mon Feb 24 10:06:58 2025 [1740413218259 msec] (38155 s) Thread 44 - [PathFinderManager] ERROR - findPathWithinCell - path nullptr
-Mon Feb 24 10:24:06 2025 [1740414246967 msec] (39184 s) Thread 44 - [PathFinderManager] ERROR - findPathWithinCell - path nullptr
-Mon Feb 24 10:24:06 2025 [1740414246969 msec] (39184 s) Thread 44 - [PathFinderManager] ERROR - findPathFromCellToDifferentCellCould not find path from 0x7f2e14548390 to 0x7f2e143a9bd0 in building: object/building/player/player_guildhall_corellia_style_01.iff
+Wed Feb 26 08:39:49 2025 [1740580789780 msec] (6155 s) Thread 46 - [PathFinderManager] ERROR - findPathWithinCell - path nullptr
+Wed Feb 26 08:39:49 2025 [1740580789960 msec] (6155 s) Thread 46 - [PathFinderManager] ERROR - findPathWithinCell - path nullptr
+Wed Feb 26 08:39:50 2025 [1740580790775 msec] (6156 s) Thread 46 - [PathFinderManager] ERROR - findPathWithinCell - path nullptr
+Wed Feb 26 08:39:50 2025 [1740580790877 msec] (6156 s) Thread 46 - [PathFinderManager] ERROR - findPathWithinCell - path nullptr
+Wed Feb 26 08:39:51 2025 [1740580791140 msec] (6156 s) Thread 46 - [PathFinderManager] ERROR - findPathWithinCell - path nullptr
+Wed Feb 26 08:39:52 2025 [1740580792434 msec] (6157 s) Thread 46 - [PathFinderManager] ERROR - findPathWithinCell - path nullptr
+Wed Feb 26 08:44:31 2025 [1740581071228 msec] (6436 s) Thread 46 - [PathFinderManager] ERROR - findPathWithinCell - path nullptr
+Wed Feb 26 08:44:35 2025 [1740581075077 msec] (6440 s) Thread 46 - [PathFinderManager] ERROR - findPathWithinCell - path nullptr
+Wed Feb 26 08:44:35 2025 [1740581075176 msec] (6440 s) Thread 46 - [PathFinderManager] ERROR - findPathWithinCell - path nullptr
+Wed Feb 26 08:44:40 2025 [1740581080739 msec] (6446 s) Thread 46 - [PathFinderManager] ERROR - findPathWithinCell - path nullptr
+Wed Feb 26 08:44:43 2025 [1740581083884 msec] (6449 s) Thread 46 - [PathFinderManager] ERROR - findPathWithinCell - path nullptr
+Wed Feb 26 08:44:44 2025 [1740581084638 msec] (6450 s) Thread 46 - [PathFinderManager] ERROR - findPathWithinCell - path nullptr
+Wed Feb 26 08:44:45 2025 [1740581085254 msec] (6450 s) Thread 46 - [PathFinderManager] ERROR - findPathWithinCell - path nullptr

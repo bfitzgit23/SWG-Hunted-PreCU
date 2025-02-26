@@ -203,7 +203,8 @@ void MissionManagerImplementation::handleMissionListRequest(MissionTerminal* mis
 	if (missionBag == nullptr)
 		return;
 
-	int maximumNumberOfItemsInMissionBag = 21; // Changed from 12 to 21 to accommodate 15 destroy + 6 deliver missions
+	int maximumNumberOfItemsInMissionBag = 12;
+
 
 	if (enableFactionalCraftingMissions) {
 		maximumNumberOfItemsInMissionBag += 6;
@@ -587,9 +588,9 @@ void MissionManagerImplementation::randomizeGeneralTerminalMissions(CreatureObje
 		//Clear mission type before calling mission generators.
 		mission->setTypeCRC(0);
 
-		if (i < 15) { // Changed from 6 to 15 destroy missions
+		if (i < 6) {
 			randomizeGenericDestroyMission(player, mission, Factions::FACTIONNEUTRAL);
-		} else if (i < 21) { // Adjusted starting index for deliver missions
+		} else if (i < 12) {
 			randomizeGenericDeliverMission(player, mission, Factions::FACTIONNEUTRAL);
 		}
 

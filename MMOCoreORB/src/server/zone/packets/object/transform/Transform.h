@@ -308,7 +308,6 @@ public:
 
 		const Vector3& validated = ghost->getLastValidatedPosition()->getPosition();
 		const uint64& validParent = ghost->getLastValidatedPosition()->getParent();
-
 		if (validParent != 0) {
 			return;
 		}
@@ -338,14 +337,11 @@ public:
 		StringBuffer msg;
 
 		msg << endl << endl
-			<< "--------------------------------" << endl
-			// Type
-			<< "Error Type - " << type
-			<< endl
 			// Transform
 			<< "Transform: "
 			<< " Position: " << newPosition.getX()  << ", " << newPosition.getZ()  << ", " << newPosition.getY()
 			<< " DeltaTime: " << deltaTime
+			<< " Type: " << type
 			<< endl
 			// Current
 			<< "Current: "
@@ -367,11 +363,12 @@ public:
 			<< "Last Saved Validated: "
 			<< " Position: " << validated.getX() << ", " << validated.getZ() << ", " << validated.getY()
 			<< " ParentID: " << validParent
-			<< " Zone: " << ghost->getSavedTerrainName() << endl
-			<< "--------------------------------" << endl
+			<< " Zone: " << ghost->getSavedTerrainName()
 			<< endl << endl;
 
-		creature->info(true) << msg.toString();
+			//<< "--------------------------------";
+
+		//creature->info(true) << msg.toString();
 		creature->sendSystemMessage(msg.toString());
 		creature->info(true) << msg.toString();
 	}
