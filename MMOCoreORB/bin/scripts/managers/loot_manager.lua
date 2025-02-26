@@ -54,7 +54,7 @@ exceptionalModifier = 2		-- 2.5
 legendaryModifier = 3		-- 5.0
 
 --The chance for random skill mods to be on looted weapons/wearables
-skillModChance = 1 50-- 500 -- 1 in 500
+skillModChance = 150-- 500 -- 1 in 500
 
 -- Value ranges for random dots on looted weapons (chance is set individually on the loot items)
 randomDotAttribute = {0, 8}		-- {0, 8} -- See CreatureAttributes.h in src for numbers.
