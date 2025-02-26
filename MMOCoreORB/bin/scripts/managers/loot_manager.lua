@@ -54,14 +54,18 @@ exceptionalModifier = 2		-- 2.5
 legendaryModifier = 3		-- 5.0
 
 --The chance for random skill mods to be on looted weapons/wearables
+
 skillModChance = 150 -- 500 -- 1 in 500
+=======
+skillModChance = 150-- 500 -- 1 in 500
+
 
 -- Value ranges for random dots on looted weapons (chance is set individually on the loot items)
 randomDotAttribute = {0, 8}		-- {0, 8} -- See CreatureAttributes.h in src for numbers.
 randomDotStrength = {10, 80}	-- {10, 200} -- Set for disease. Fire will be x1.5, poison x2.
 randomDotDuration = {30, 90}	-- {30, 240} -- Set for poison. Fire will be x1.5, disease x5.
-randomDotPotency = {15, 70}		-- {1, 100} --Infinity:  Increased min
-randomDotUses = {250, 750}		-- {250, 9999} --Infinity:  Max to 750
+randomDotPotency = {15, 70}		-- {1, 100} --Hunted:  Increased min
+randomDotUses = {250, 750}		-- {250, 9999} --Hunted:  Max to 750
 
 -- Modifier applied to min/max junk values found in loot item lua
 junkValueModifier = 5;
