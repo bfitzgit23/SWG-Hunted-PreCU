@@ -588,3 +588,50 @@ Wed Feb 26 09:27:02 2025 [ServerEventAutomation] playerEvent Negan (account_id: 
 Wed Feb 26 09:27:04 2025 [ServerEventAutomation] playerEvent Negan (account_id: 46, oid: 281475005578047, played: 1d 3h 1m 27s, session: 0s) on dathomir at -1066 6121 - playerLoggedIn
 Wed Feb 26 09:27:40 2025 [ServerEventAutomation] playerEvent Aspen (account_id: 53, oid: 281475006333649, played: 6h 26m 55s, session: 1h 17m 41s) on corellia at -331 -4640 - playerLoggedOut
 Wed Feb 26 09:27:56 2025 [ServerEventAutomation] playerEvent Aspen (account_id: 53, oid: 281475006333649, played: 6h 26m 56s, session: 0s) on corellia at -331 -4640 - playerLoggedIn
+Wed Feb 26 09:43:33 2025 [ServerEventAutomation] playerEvent Negan (account_id: 46, oid: 281475005578047, played: 1d 3h 17m 54s, session: 16m 27s) on dathomir at 604 3085 - playerLoggedOut
+Wed Feb 26 09:43:36 2025 [ServerEventAutomation] playerEvent Negan (account_id: 46, oid: 281475005578047, played: 1d 3h 17m 55s, session: 0s) on dathomir at 604 3085 - playerLoggedIn
+Wed Feb 26 09:55:30 2025 [ServerEventAutomation] playerEvent Negan (account_id: 46, oid: 281475005578047, played: 1d 3h 29m 48s, session: 11m 53s) on talus at 4302 5396 - playerLoggedOut
+Wed Feb 26 09:55:34 2025 [ServerEventAutomation] playerEvent Negan (account_id: 46, oid: 281475005578047, played: 1d 3h 29m 49s, session: 0s) on talus at 4302 5396 - playerLoggedIn
+Wed Feb 26 09:57:21 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475007108297, played: 12h 43m 24s, session: 2h 55m 54s) on tatooine at 6996 4134 - playerLoggedOut
+Wed Feb 26 09:57:23 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475007108297, played: 12h 43m 25s, session: 0s) on tatooine at 6996 4134 - playerLoggedIn
+Wed Feb 26 10:01:12 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 3h 24m 15s, session: 0s) on naboo at 4884 6065 - playerLoggedIn
+Wed Feb 26 10:04:07 2025 [ServerEventAutomation] playerEvent Negan (account_id: 46, oid: 281475005578047, played: 1d 3h 38m 23s, session: 8m 33s) on naboo at 4867 6064 - playerLoggedOut
+Wed Feb 26 10:05:38 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 3h 28m 40s, session: 4m 25s) on naboo at 4865 6064 - playerLoggedOut
+Wed Feb 26 10:06:03 2025 [ServerEventAutomation] playerEvent Aspen (account_id: 53, oid: 281475006333649, played: 7h 5m 3s, session: 38m 7s) on tatooine at 6999 4138 - playerLoggedOut
+Wed Feb 26 10:08:06 2025 [ServerEventAutomation] playerEvent Aspen (account_id: 53, oid: 281475006333649, played: 7h 5m 4s, session: 0s) on tatooine at 6999 4138 - playerLoggedIn
+Wed Feb 26 10:11:29 2025 [ServerEventAutomation] playerEvent Negan (account_id: 46, oid: 281475005578047, played: 1d 3h 38m 23s, session: 0s) on naboo at 4867 6064 - playerLoggedOut
+Wed Feb 26 10:11:29 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 3h 28m 38s, session: 0s) on naboo at 4865 6064 - playerLoggedOut
+Wed Feb 26 10:12:55 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 3h 28m 39s, session: 0s) on naboo at 4865 6064 - playerLoggedIn
+Wed Feb 26 10:13:01 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475007108297, played: 12h 51m 37s, session: 0s) on tatooine at 7003 4134 - playerLoggedOut
+Wed Feb 26 10:13:01 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475007108297, played: 12h 51m 38s, session: 0s) on tatooine at 7003 4134 - playerLoggedIn
+Wed Feb 26 10:13:58 2025 [ServerEventAutomation] playerEvent Fernie (account_id: 53, oid: 281475008723659, played: 1s, session: 0s) on tutorial at 4278 2000 - playerLoggedIn
+Wed Feb 26 10:14:41 2025 [ServerEventAutomation] playerEvent Dakkon (account_id: 62, oid: 281475008658719, played: 56m 13s, session: 0s) on tatooine at -2918 2117 - playerLoggedOut
+Wed Feb 26 10:14:41 2025 [ServerEventAutomation] playerEvent Dakkon (account_id: 62, oid: 281475008658719, played: 56m 14s, session: 0s) on tatooine at -2918 2117 - playerLoggedIn
+Wed Feb 26 10:17:24 2025 [ServerEventAutomation] playerEvent Fernie (account_id: 53, oid: 281475008723659, played: 3m 27s, session: 3m 26s) on corellia at -177 -4743 - playerLoggedOut
+Wed Feb 26 10:17:27 2025 [ServerEventAutomation] playerEvent Fernie (account_id: 53, oid: 281475008723659, played: 3m 28s, session: 0s) on corellia at -177 -4743 - playerLoggedIn
+Wed Feb 26 10:46:19 2025 [ServerEventAutomation] playerEvent Kyia (account_id: 47, oid: 281475004417928, played: 5h 31m 10s, session: 0s) on naboo at 4873 6061 - playerLoggedIn
+Wed Feb 26 10:46:51 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475007108297, played: 13h 25m 28s, session: 33m 49s) on corellia at -79 -5761 - playerLoggedOut
+Wed Feb 26 10:46:58 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475007108297, played: 13h 25m 29s, session: 0s) on corellia at -79 -5761 - playerLoggedIn
+Wed Feb 26 10:51:43 2025 [ServerEventAutomation] playerEvent Fernie (account_id: 53, oid: 281475008723659, played: 37m 41s, session: 34m 13s) on rori at -5314 -2226 - playerLoggedOut
+Wed Feb 26 10:51:47 2025 [ServerEventAutomation] playerEvent Aspen (account_id: 53, oid: 281475006333649, played: 7h 4m 34s, session: 0s) on tatooine at 6999 4138 - playerLoggedOut
+Wed Feb 26 10:51:47 2025 [ServerEventAutomation] playerEvent Aspen (account_id: 53, oid: 281475006333649, played: 7h 4m 35s, session: 0s) on tatooine at 6999 4138 - playerLoggedIn
+Wed Feb 26 10:52:14 2025 [ServerEventAutomation] playerEvent Fernie (account_id: 53, oid: 281475008723659, played: 37m 42s, session: 0s) on rori at -5314 -2226 - playerLoggedIn
+Wed Feb 26 10:52:37 2025 [ServerEventAutomation] playerEvent Aspen (account_id: 53, oid: 281475006333649, played: 7h 5m 24s, session: 49s) on tatooine at 6999 4138 - playerLoggedOut
+Wed Feb 26 10:56:42 2025 [ServerEventAutomation] playerEvent Kyia (account_id: 47, oid: 281475004417928, played: 5h 41m 31s, session: 10m 21s) on naboo at 4874 6081 - playerLoggedOut
+Wed Feb 26 10:56:46 2025 [ServerEventAutomation] playerEvent Yuli (account_id: 47, oid: 281475004645095, played: 1h 5m 24s, session: 0s) on naboo at 4866 6064 - playerLoggedIn
+Wed Feb 26 11:04:33 2025 [ServerEventAutomation] playerEvent Fernie (account_id: 53, oid: 281475008723659, played: 50m 2s, session: 12m 19s) on rori at -5308 -2222 - playerLoggedOut
+Wed Feb 26 11:04:37 2025 [ServerEventAutomation] playerEvent Aspen (account_id: 53, oid: 281475006333649, played: 7h 5m 25s, session: 0s) on tatooine at 6999 4138 - playerLoggedIn
+Wed Feb 26 11:04:57 2025 [ServerEventAutomation] playerEvent Yuli (account_id: 47, oid: 281475004645095, played: 1h 13m 33s, session: 8m 9s) on naboo at 4872 6077 - playerLoggedOut
+Wed Feb 26 11:05:05 2025 [ServerEventAutomation] playerEvent Keshk (account_id: 47, oid: 281475007645100, played: 8m 11s, session: 0s) on naboo at 5198 6682 - playerLoggedIn
+Wed Feb 26 11:05:24 2025 [ServerEventAutomation] playerEvent Aspen (account_id: 53, oid: 281475006333649, played: 7h 6m 12s, session: 47s) on tatooine at 6720 4276 - playerLoggedOut
+Wed Feb 26 11:05:30 2025 [ServerEventAutomation] playerEvent Jaybad (account_id: 53, oid: 281475004497288, played: 5h 29m 23s, session: 0s) on corellia at -5039 -2275 - playerLoggedIn
+Wed Feb 26 11:06:54 2025 [ServerEventAutomation] playerEvent Jaybad (account_id: 53, oid: 281475004497288, played: 5h 30m 46s, session: 1m 23s) on corellia at -5038 -2275 - playerLoggedOut
+Wed Feb 26 11:13:59 2025 [ServerEventAutomation] playerEvent Fernie (account_id: 53, oid: 281475008723659, played: 50m 3s, session: 0s) on rori at -5308 -2222 - playerLoggedIn
+Wed Feb 26 11:14:54 2025 [ServerEventAutomation] playerEvent Keshk (account_id: 47, oid: 281475007645100, played: 17m 59s, session: 9m 48s) on naboo at 5188 6681 - playerLoggedOut
+Wed Feb 26 11:15:07 2025 [ServerEventAutomation] playerEvent Xarina (account_id: 47, oid: 281475004346703, played: 3h 47m 45s, session: 0s) on naboo at 4878 6075 - playerLoggedIn
+Wed Feb 26 11:17:27 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 4h 33m 10s, session: 1h 4m 30s) on corellia at -6654 5960 - playerLoggedOut
+Wed Feb 26 11:19:28 2025 [ServerEventAutomation] playerEvent Xarina (account_id: 47, oid: 281475004346703, played: 3h 52m 5s, session: 4m 20s) on naboo at 4877 6080 - playerLoggedOut
+Wed Feb 26 11:22:49 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475007108297, played: 14h 1m 18s, session: 35m 49s) on rori at -147 -4463 - playerLoggedOut
+Wed Feb 26 11:23:40 2025 [ServerEventAutomation] playerEvent Fernie (account_id: 53, oid: 281475008723659, played: 59m 43s, session: 9m 40s) on rori at -5277 -2639 - playerLoggedOut
+Wed Feb 26 11:23:40 2025 [ServerEventAutomation] playerEvent Fernie (account_id: 53, oid: 281475008723659, played: 59m 43s, session: 9m 40s) on rori at -5277 -2639 - playerLoggedOut
+Wed Feb 26 11:27:59 2025 [ServerEventAutomation] playerEvent Dakkon (account_id: 62, oid: 281475008658719, played: 2h 9m 26s, session: 1h 13m 12s) on tatooine at -2606 2128 - playerLoggedOut
