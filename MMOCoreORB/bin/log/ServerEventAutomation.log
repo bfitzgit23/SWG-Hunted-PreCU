@@ -635,3 +635,250 @@ Wed Feb 26 11:22:49 2025 [ServerEventAutomation] playerEvent Revan (account_id: 
 Wed Feb 26 11:23:40 2025 [ServerEventAutomation] playerEvent Fernie (account_id: 53, oid: 281475008723659, played: 59m 43s, session: 9m 40s) on rori at -5277 -2639 - playerLoggedOut
 Wed Feb 26 11:23:40 2025 [ServerEventAutomation] playerEvent Fernie (account_id: 53, oid: 281475008723659, played: 59m 43s, session: 9m 40s) on rori at -5277 -2639 - playerLoggedOut
 Wed Feb 26 11:27:59 2025 [ServerEventAutomation] playerEvent Dakkon (account_id: 62, oid: 281475008658719, played: 2h 9m 26s, session: 1h 13m 12s) on tatooine at -2606 2128 - playerLoggedOut
+Fri Feb 28 12:40:56 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 10h 5m 1s, session: 0s) on tatooine at 3560 -4794 - playerLoggedIn
+Fri Feb 28 12:42:51 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 10h 6m 55s, session: 1m 54s) on tatooine at 3557 -4790 - playerLoggedOut
+Fri Feb 28 12:47:18 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 10h 6m 55s, session: 0s) on tatooine at 3557 -4790 - playerLoggedOut
+Fri Feb 28 12:47:59 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 10h 6m 56s, session: 0s) on tatooine at 3557 -4790 - playerLoggedIn
+Fri Feb 28 12:49:00 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 10h 7m 57s, session: 1m 1s) on tatooine at 3557 -4790 - playerLoggedOut
+Fri Feb 28 12:59:58 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 10h 6m 55s, session: 0s) on tatooine at 3557 -4790 - playerLoggedOut
+Fri Feb 28 13:01:15 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 10h 6m 56s, session: 0s) on tatooine at 3557 -4790 - playerLoggedIn
+Fri Feb 28 13:03:42 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 10h 6m 55s, session: 0s) on tatooine at 3557 -4790 - playerLoggedOut
+Fri Feb 28 13:04:42 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 10h 6m 56s, session: 0s) on tatooine at 3557 -4790 - playerLoggedIn
+Fri Feb 28 13:06:00 2025 [ServerEventAutomation] playerEvent Matterhorn (account_id: 53, oid: 281475009011923, played: 37m 46s, session: 0s) on naboo at -4875 4141 - playerLoggedIn
+Fri Feb 28 13:07:17 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 10h 9m 30s, session: 2m 34s) on tatooine at 3557 -4790 - playerLoggedOut
+Fri Feb 28 13:08:07 2025 [ServerEventAutomation] playerEvent Matterhorn (account_id: 53, oid: 281475009011923, played: 39m 53s, session: 2m 7s) on naboo at -4992 4076 - playerLoggedOut
+Fri Feb 28 13:08:11 2025 [ServerEventAutomation] playerEvent Matterhorn (account_id: 53, oid: 281475009011923, played: 39m 54s, session: 0s) on naboo at -4992 4076 - playerLoggedIn
+Fri Feb 28 13:11:12 2025 [ServerEventAutomation] playerEvent Matterhorn (account_id: 53, oid: 281475009011923, played: 42m 55s, session: 3m 1s) on naboo at -5874 -581 - playerLoggedOut
+Fri Feb 28 13:14:03 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 10h 9m 31s, session: 0s) on tatooine at 3557 -4790 - playerLoggedIn
+Fri Feb 28 13:16:18 2025 [ServerEventAutomation] playerEvent Matterhorn (account_id: 53, oid: 281475009011923, played: 42m 56s, session: 0s) on naboo at -5874 -581 - playerLoggedIn
+Fri Feb 28 13:18:30 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 10h 13m 58s, session: 4m 26s) on tatooine at 3557 -4790 - playerLoggedOut
+Fri Feb 28 13:30:23 2025 [ServerEventAutomation] playerEvent Matterhorn (account_id: 53, oid: 281475009011923, played: 57m 1s, session: 14m 4s) on tatooine at -3057 2355 - playerLoggedOut
+Fri Feb 28 13:32:57 2025 [ServerEventAutomation] playerEvent Matterhorn (account_id: 53, oid: 281475009011923, played: 57m 2s, session: 0s) on tatooine at -3057 2355 - playerLoggedIn
+Fri Feb 28 13:33:11 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 10h 13m 59s, session: 0s) on tatooine at 3557 -4790 - playerLoggedIn
+Fri Feb 28 13:41:49 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 10h 22m 36s, session: 8m 37s) on tatooine at 3557 -4790 - playerLoggedOut
+Fri Feb 28 13:41:58 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 10h 22m 37s, session: 0s) on tatooine at 3557 -4790 - playerLoggedIn
+Fri Feb 28 13:46:56 2025 [ServerEventAutomation] playerEvent Matterhorn (account_id: 53, oid: 281475009011923, played: 1h 11m 0s, session: 13m 58s) on tatooine at 5527 -1304 - playerLoggedOut
+Fri Feb 28 13:47:00 2025 [ServerEventAutomation] playerEvent Matterhorn (account_id: 53, oid: 281475009011923, played: 1h 11m 1s, session: 0s) on tatooine at 5527 -1304 - playerLoggedIn
+Fri Feb 28 13:52:17 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 10h 32m 56s, session: 10m 19s) on tatooine at 3557 -4790 - playerLoggedOut
+Fri Feb 28 13:52:29 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 10h 32m 57s, session: 0s) on tatooine at 3557 -4790 - playerLoggedIn
+Fri Feb 28 13:53:27 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 10h 33m 55s, session: 57s) on tatooine at 3557 -4790 - playerLoggedOut
+Fri Feb 28 13:53:31 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 62, oid: 281475008877954, played: 14h 9m 4s, session: 0s) on tatooine at -2897 2134 - playerLoggedIn
+Fri Feb 28 13:54:07 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 62, oid: 281475008877954, played: 14h 9m 39s, session: 35s) on tatooine at -2897 2134 - playerLoggedOut
+Fri Feb 28 13:54:38 2025 [ServerEventAutomation] playerEvent Matterhorn (account_id: 53, oid: 281475009011923, played: 1h 18m 40s, session: 7m 38s) on tatooine at 5631 6013 - playerLoggedOut
+Fri Feb 28 14:02:00 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 10h 33m 55s, session: 0s) on tatooine at 3557 -4790 - playerLoggedOut
+Fri Feb 28 14:02:35 2025 [ServerEventAutomation] playerEvent Matterhorn (account_id: 53, oid: 281475009011923, played: 1h 18m 40s, session: 0s) on tatooine at 5631 6013 - playerLoggedOut
+Fri Feb 28 14:02:35 2025 [ServerEventAutomation] playerEvent Matterhorn (account_id: 53, oid: 281475009011923, played: 1h 18m 41s, session: 0s) on tatooine at 5631 6013 - playerLoggedIn
+Fri Feb 28 14:04:35 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 10h 33m 56s, session: 0s) on tatooine at 3557 -4790 - playerLoggedIn
+Fri Feb 28 14:04:56 2025 [ServerEventAutomation] playerEvent Matterhorn (account_id: 53, oid: 281475009011923, played: 1h 21m 2s, session: 2m 21s) on tatooine at 6103 4661 - playerLoggedOut
+Fri Feb 28 14:04:59 2025 [ServerEventAutomation] playerEvent Aspen (account_id: 53, oid: 281475006333649, played: 7h 33m 51s, session: 0s) on tatooine at 5864 3967 - playerLoggedIn
+Fri Feb 28 14:09:15 2025 [ServerEventAutomation] playerEvent Murphy (account_id: 62, oid: 281475009452787, played: 1s, session: 0s) on tutorial at 901 3106 - playerLoggedIn
+Fri Feb 28 14:10:29 2025 [ServerEventAutomation] playerEvent Murphy (account_id: 62, oid: 281475009452787, played: 1m 14s, session: 1m 13s) on tutorial at 932 3076 - playerLoggedOut
+Fri Feb 28 14:10:33 2025 [ServerEventAutomation] playerEvent Murphy (account_id: 62, oid: 281475009452787, played: 1m 15s, session: 0s) on tutorial at 932 3076 - playerLoggedIn
+Fri Feb 28 14:11:01 2025 [ServerEventAutomation] playerEvent Murphy (account_id: 62, oid: 281475009452787, played: 1m 42s, session: 27s) on tutorial at 932 3076 - playerLoggedOut
+Fri Feb 28 14:12:34 2025 [ServerEventAutomation] playerEvent Urza (account_id: 62, oid: 281475009453021, played: 1s, session: 0s) on tutorial at 4469 4358 - playerLoggedIn
+Fri Feb 28 14:12:37 2025 [ServerEventAutomation] playerEvent Urza (account_id: 62, oid: 281475009453021, played: 3s, session: 2s) on tutorial at 4469 4358 - playerLoggedOut
+Fri Feb 28 14:12:41 2025 [ServerEventAutomation] playerEvent Urza (account_id: 62, oid: 281475009453021, played: 4s, session: 0s) on tutorial at 4469 4358 - playerLoggedIn
+Fri Feb 28 14:13:15 2025 [ServerEventAutomation] playerEvent Aspen (account_id: 53, oid: 281475006333649, played: 7h 42m 6s, session: 8m 15s) on tatooine at 6167 4720 - playerLoggedOut
+Fri Feb 28 14:13:20 2025 [ServerEventAutomation] playerEvent Matterhorn (account_id: 53, oid: 281475009011923, played: 1h 21m 3s, session: 0s) on tatooine at 6103 4661 - playerLoggedIn
+Fri Feb 28 14:30:09 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 62, oid: 281475008877954, played: 14h 9m 39s, session: 0s) on tatooine at -2897 2134 - playerLoggedOut
+Fri Feb 28 14:30:09 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 62, oid: 281475008877954, played: 14h 9m 40s, session: 0s) on tatooine at -2897 2134 - playerLoggedIn
+Fri Feb 28 14:33:40 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 62, oid: 281475008877954, played: 14h 13m 11s, session: 3m 30s) on tatooine at -2898 2134 - playerLoggedOut
+Fri Feb 28 14:34:32 2025 [ServerEventAutomation] playerEvent Urza (account_id: 62, oid: 281475009453021, played: 21m 54s, session: 21m 50s) on tatooine at -2900 2131 - playerLoggedOut
+Fri Feb 28 14:34:48 2025 [ServerEventAutomation] playerEvent Urza (account_id: 62, oid: 281475009453021, played: 21m 55s, session: 0s) on tatooine at -2900 2131 - playerLoggedIn
+Fri Feb 28 15:36:33 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 62, oid: 281475008877954, played: 14h 13m 12s, session: 0s) on tatooine at -2898 2134 - playerLoggedIn
+Fri Feb 28 15:42:29 2025 [ServerEventAutomation] playerEvent Matterhorn (account_id: 53, oid: 281475009011923, played: 2h 50m 10s, session: 1h 29m 7s) on corellia at -65 -4709 - playerLoggedOut
+Fri Feb 28 16:02:25 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 12h 31m 39s, session: 1h 57m 42s) on tatooine at -1292 -3592 - playerLoggedOut
+Fri Feb 28 17:09:20 2025 [ServerEventAutomation] playerEvent Sava (account_id: 10, oid: 281474999973468, played: 1d 12h 36m 32s, session: 0s) on dantooine at -3272 3692 - playerLoggedIn
+Fri Feb 28 17:11:18 2025 [ServerEventAutomation] playerEvent Crary (account_id: 10, oid: 281474997605468, played: 18h 31m 12s, session: 0s) on dantooine at -3097 3648 - playerLoggedIn
+Fri Feb 28 17:14:31 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 12h 31m 40s, session: 0s) on tatooine at -1292 -3592 - playerLoggedIn
+Fri Feb 28 17:15:13 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 62, oid: 281475008877954, played: 15h 51m 45s, session: 1h 38m 32s) on tatooine at -2880 2145 - playerLoggedOut
+Fri Feb 28 17:15:20 2025 [ServerEventAutomation] playerEvent Dakkon (account_id: 62, oid: 281475008658719, played: 14h 31m 55s, session: 0s) on corellia at -187 -4697 - playerLoggedIn
+Fri Feb 28 17:26:39 2025 [ServerEventAutomation] playerEvent Sava (account_id: 10, oid: 281474999973468, played: 1d 12h 53m 51s, session: 17m 18s) on dantooine at -3265 3695 - playerLoggedOut
+Fri Feb 28 17:32:13 2025 [ServerEventAutomation] playerEvent Dakkon (account_id: 62, oid: 281475008658719, played: 14h 48m 47s, session: 16m 51s) on tatooine at -2896 2142 - playerLoggedOut
+Fri Feb 28 17:32:22 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 62, oid: 281475008877954, played: 15h 51m 46s, session: 0s) on tatooine at -2880 2145 - playerLoggedIn
+Fri Feb 28 17:36:55 2025 [ServerEventAutomation] playerEvent Crary (account_id: 10, oid: 281474997605468, played: 18h 56m 47s, session: 25m 35s) on dantooine at -3247 3667 - playerLoggedOut
+Fri Feb 28 17:37:01 2025 [ServerEventAutomation] playerEvent Halle' (account_id: 10, oid: 281474997622683, played: 3d 6h 42m 3s, session: 0s) on dantooine at -3097 3646 - playerLoggedIn
+Fri Feb 28 17:38:56 2025 [ServerEventAutomation] playerEvent Anek (account_id: 22, oid: 281475000494914, played: 9h 57m 53s, session: 0s) on dantooine at -3188 3666 - playerLoggedIn
+Fri Feb 28 17:43:24 2025 [ServerEventAutomation] playerEvent Halle' (account_id: 10, oid: 281474997622683, played: 3d 6h 48m 26s, session: 6m 22s) on dantooine at -3259 3697 - playerLoggedOut
+Fri Feb 28 17:43:28 2025 [ServerEventAutomation] playerEvent Crary (account_id: 10, oid: 281474997605468, played: 18h 56m 48s, session: 0s) on dantooine at -3247 3667 - playerLoggedIn
+Fri Feb 28 17:54:06 2025 [ServerEventAutomation] playerEvent Anek (account_id: 22, oid: 281475000494914, played: 10h 13m 2s, session: 15m 9s) on dantooine at -3260 3697 - playerLoggedOut
+Fri Feb 28 17:54:14 2025 [ServerEventAutomation] playerEvent Retri (account_id: 22, oid: 281475008880813, played: 2h 6m 42s, session: 0s) on dantooine at -3141 3770 - playerLoggedIn
+Fri Feb 28 17:55:19 2025 [ServerEventAutomation] playerEvent Crary (account_id: 10, oid: 281474997605468, played: 19h 8m 38s, session: 11m 50s) on dantooine at -3258 3698 - playerLoggedOut
+Fri Feb 28 17:55:49 2025 [ServerEventAutomation] playerEvent Halle' (account_id: 10, oid: 281474997622683, played: 3d 6h 48m 27s, session: 0s) on dantooine at -3259 3697 - playerLoggedIn
+Fri Feb 28 18:00:04 2025 [ServerEventAutomation] playerEvent Halle' (account_id: 10, oid: 281474997622683, played: 3d 6h 52m 41s, session: 4m 14s) on dantooine at -3258 3698 - playerLoggedOut
+Fri Feb 28 18:06:24 2025 [ServerEventAutomation] playerEvent Retri (account_id: 22, oid: 281475008880813, played: 2h 18m 51s, session: 12m 9s) on dantooine at -3104 3659 - playerLoggedOut
+Fri Feb 28 18:06:59 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 62, oid: 281475008877954, played: 16h 26m 21s, session: 34m 35s) on tatooine at 6757 3892 - playerLoggedOut
+Fri Feb 28 18:07:29 2025 [ServerEventAutomation] playerEvent Urza (account_id: 62, oid: 281475009453021, played: 3h 54m 25s, session: 3h 32m 30s) on tatooine at 6758 3888 - playerLoggedOut
+Fri Feb 28 18:17:58 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 13h 35m 5s, session: 1h 3m 25s) on dantooine at -3386 3638 - playerLoggedOut
+Fri Feb 28 19:51:47 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 62, oid: 281475008877954, played: 16h 26m 22s, session: 0s) on tatooine at 6757 3892 - playerLoggedIn
+Fri Feb 28 19:51:51 2025 [ServerEventAutomation] playerEvent Urza (account_id: 62, oid: 281475009453021, played: 3h 54m 26s, session: 0s) on tatooine at 6758 3888 - playerLoggedIn
+Fri Feb 28 20:35:43 2025 [ServerEventAutomation] playerEvent Retri (account_id: 22, oid: 281475008880813, played: 2h 18m 52s, session: 0s) on dantooine at -3104 3659 - playerLoggedIn
+Fri Feb 28 21:20:42 2025 [ServerEventAutomation] playerEvent Retri (account_id: 22, oid: 281475008880813, played: 3h 3m 50s, session: 44m 57s) on dantooine at -3328 3670 - playerLoggedOut
+Fri Feb 28 22:43:54 2025 [ServerEventAutomation] playerEvent Urza (account_id: 62, oid: 281475009453021, played: 6h 46m 27s, session: 2h 52m 0s) on tatooine at 6506 4373 - playerLoggedOut
+Fri Feb 28 22:44:01 2025 [ServerEventAutomation] playerEvent Dakkon (account_id: 62, oid: 281475008658719, played: 14h 48m 48s, session: 0s) on tatooine at -2896 2142 - playerLoggedIn
+Fri Feb 28 22:46:41 2025 [ServerEventAutomation] playerEvent Dakkon (account_id: 62, oid: 281475008658719, played: 14h 51m 27s, session: 2m 39s) on tatooine at -2898 2134 - playerLoggedOut
+Fri Feb 28 22:46:48 2025 [ServerEventAutomation] playerEvent Urza (account_id: 62, oid: 281475009453021, played: 6h 46m 28s, session: 0s) on tatooine at 6506 4373 - playerLoggedIn
+Fri Feb 28 23:01:02 2025 [ServerEventAutomation] playerEvent Urza (account_id: 62, oid: 281475009453021, played: 7h 0m 42s, session: 14m 14s) on tatooine at 6698 4261 - playerLoggedOut
+Fri Feb 28 23:01:04 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 62, oid: 281475008877954, played: 19h 35m 37s, session: 3h 9m 14s) on tatooine at 6691 4270 - playerLoggedOut
+Fri Feb 28 23:02:03 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 62, oid: 281475008877954, played: 19h 35m 38s, session: 0s) on tatooine at 6691 4270 - playerLoggedIn
+Fri Feb 28 23:02:49 2025 [ServerEventAutomation] playerEvent Urza (account_id: 62, oid: 281475009453021, played: 7h 0m 43s, session: 0s) on tatooine at 6698 4261 - playerLoggedIn
+Fri Feb 28 23:51:44 2025 [ServerEventAutomation] playerEvent Urza (account_id: 62, oid: 281475009453021, played: 7h 49m 38s, session: 48m 54s) on tatooine at 6396 3532 - playerLoggedOut
+Fri Feb 28 23:51:56 2025 [ServerEventAutomation] playerEvent Dakkon (account_id: 62, oid: 281475008658719, played: 14h 51m 28s, session: 0s) on tatooine at -2898 2134 - playerLoggedIn
+Sat Mar  1 01:50:34 2025 [ServerEventAutomation] playerEvent Dakkon (account_id: 62, oid: 281475008658719, played: 16h 50m 2s, session: 1h 58m 34s) on tatooine at 6504 3575 - playerLoggedOut
+Sat Mar  1 01:50:44 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 62, oid: 281475008877954, played: 22h 24m 15s, session: 2h 48m 37s) on tatooine at -2903 2132 - playerLoggedOut
+Sat Mar  1 07:15:25 2025 [ServerEventAutomation] playerEvent Fey (account_id: 22, oid: 281475009474256, played: 1s, session: 0s) on tutorial at 4483 3943 - playerLoggedIn
+Sat Mar  1 08:22:03 2025 [ServerEventAutomation] playerEvent Fey (account_id: 22, oid: 281475009474256, played: 1h 6m 36s, session: 1h 6m 35s) on dantooine at -3321 3630 - playerLoggedOut
+Sat Mar  1 09:58:32 2025 [ServerEventAutomation] playerEvent Xarina (account_id: 47, oid: 281475004346703, played: 3h 52m 6s, session: 0s) on naboo at 4877 6080 - playerLoggedIn
+Sat Mar  1 09:59:03 2025 [ServerEventAutomation] playerEvent Yuli (account_id: 47, oid: 281475004645095, played: 1h 13m 34s, session: 0s) on naboo at 4872 6077 - playerLoggedIn
+Sat Mar  1 10:06:49 2025 [ServerEventAutomation] playerEvent Yuli (account_id: 47, oid: 281475004645095, played: 1h 21m 20s, session: 7m 45s) on naboo at 4872 6063 - playerLoggedOut
+Sat Mar  1 10:07:14 2025 [ServerEventAutomation] playerEvent Kyia (account_id: 47, oid: 281475004417928, played: 5h 41m 32s, session: 0s) on naboo at 4874 6081 - playerLoggedIn
+Sat Mar  1 10:10:35 2025 [ServerEventAutomation] playerEvent Kyia (account_id: 47, oid: 281475004417928, played: 5h 44m 53s, session: 3m 20s) on naboo at 4871 6064 - playerLoggedOut
+Sat Mar  1 12:17:03 2025 [ServerEventAutomation] playerEvent Dakkon (account_id: 62, oid: 281475008658719, played: 16h 50m 3s, session: 0s) on tatooine at 6504 3575 - playerLoggedIn
+Sat Mar  1 12:28:22 2025 [ServerEventAutomation] playerEvent Dakkon (account_id: 62, oid: 281475008658719, played: 17h 1m 21s, session: 11m 18s) on tatooine at -2894 2135 - playerLoggedOut
+Sat Mar  1 12:53:25 2025 [ServerEventAutomation] playerEvent Evan (account_id: 30, oid: 281474999326848, played: 8h 39m 43s, session: 0s) on tatooine at 3505 -4739 - playerLoggedIn
+Sat Mar  1 13:02:58 2025 [ServerEventAutomation] playerEvent Evan (account_id: 30, oid: 281474999326848, played: 8h 49m 15s, session: 9m 32s) on tatooine at 3478 -4740 - playerLoggedOut
+Sat Mar  1 13:20:44 2025 [ServerEventAutomation] playerEvent Matterhorn (account_id: 53, oid: 281475009011923, played: 2h 50m 11s, session: 0s) on corellia at -65 -4709 - playerLoggedIn
+Sat Mar  1 13:27:10 2025 [ServerEventAutomation] playerEvent Xarina (account_id: 47, oid: 281475004346703, played: 7h 20m 39s, session: 3h 28m 33s) on corellia at 3156 5033 - playerLoggedOut
+Sat Mar  1 13:27:43 2025 [ServerEventAutomation] playerEvent Matterhorn (account_id: 53, oid: 281475009011923, played: 2h 57m 9s, session: 6m 58s) on talus at -4023 -1463 - playerLoggedOut
+Sat Mar  1 13:29:43 2025 [ServerEventAutomation] playerEvent Xarina (account_id: 47, oid: 281475004346703, played: 7h 20m 39s, session: 0s) on corellia at 3156 5033 - playerLoggedOut
+Sat Mar  1 13:32:47 2025 [ServerEventAutomation] playerEvent Matterhorn (account_id: 53, oid: 281475009011923, played: 2h 57m 10s, session: 0s) on talus at -4023 -1463 - playerLoggedIn
+Sat Mar  1 13:38:45 2025 [ServerEventAutomation] playerEvent Matterhorn (account_id: 53, oid: 281475009011923, played: 3h 3m 8s, session: 5m 58s) on talus at -821 -2989 - playerLoggedOut
+Sat Mar  1 13:43:05 2025 [ServerEventAutomation] playerEvent Matterhorn (account_id: 53, oid: 281475009011923, played: 3h 3m 9s, session: 0s) on talus at -821 -2989 - playerLoggedIn
+Sat Mar  1 13:43:40 2025 [ServerEventAutomation] playerEvent Matterhorn (account_id: 53, oid: 281475009011923, played: 3h 3m 43s, session: 34s) on talus at -463 -2992 - playerLoggedOut
+Sat Mar  1 13:45:48 2025 [ServerEventAutomation] playerEvent Matterhorn (account_id: 53, oid: 281475009011923, played: 3h 3m 44s, session: 0s) on talus at -463 -2992 - playerLoggedIn
+Sat Mar  1 13:46:38 2025 [ServerEventAutomation] playerEvent Matterhorn (account_id: 53, oid: 281475009011923, played: 3h 4m 34s, session: 50s) on talus at 164 -2987 - playerLoggedOut
+Sat Mar  1 13:46:59 2025 [ServerEventAutomation] playerEvent Matterhorn (account_id: 53, oid: 281475009011923, played: 3h 4m 35s, session: 0s) on talus at 164 -2987 - playerLoggedIn
+Sat Mar  1 13:59:33 2025 [ServerEventAutomation] playerEvent Matterhorn (account_id: 53, oid: 281475009011923, played: 3h 17m 9s, session: 12m 33s) on rori at 3677 -6405 - playerLoggedOut
+Sat Mar  1 13:59:33 2025 [ServerEventAutomation] playerEvent Matterhorn (account_id: 53, oid: 281475009011923, played: 3h 17m 9s, session: 12m 33s) on rori at 3677 -6405 - playerLoggedOut
+Sat Mar  1 14:33:33 2025 [ServerEventAutomation] playerEvent Xarina (account_id: 47, oid: 281475004346703, played: 7h 20m 40s, session: 0s) on corellia at 3156 5033 - playerLoggedIn
+Sat Mar  1 15:16:52 2025 [ServerEventAutomation] playerEvent Xarina (account_id: 47, oid: 281475004346703, played: 8h 3m 58s, session: 43m 17s) on dathomir at -507 5329 - playerLoggedOut
+Sat Mar  1 15:37:50 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 13h 35m 6s, session: 0s) on dantooine at -3386 3638 - playerLoggedIn
+Sat Mar  1 15:39:43 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 13h 36m 58s, session: 1m 52s) on dantooine at -3386 3638 - playerLoggedOut
+Sat Mar  1 15:43:57 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 13h 36m 59s, session: 0s) on dantooine at -3386 3638 - playerLoggedIn
+Sat Mar  1 15:50:26 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 13h 39m 37s, session: 0s) on dantooine at -3386 3638 - playerLoggedOut
+Sat Mar  1 15:50:26 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 13h 39m 38s, session: 0s) on dantooine at -3386 3638 - playerLoggedIn
+Sat Mar  1 15:57:12 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 13h 46m 23s, session: 6m 45s) on dantooine at -3386 3638 - playerLoggedOut
+Sat Mar  1 16:00:26 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 13h 44m 24s, session: 0s) on dantooine at -3386 3638 - playerLoggedOut
+Sat Mar  1 16:00:26 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 13h 44m 25s, session: 0s) on dantooine at -3386 3638 - playerLoggedIn
+Sat Mar  1 16:00:55 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 13h 44m 54s, session: 29s) on dantooine at -3386 3638 - playerLoggedOut
+Sat Mar  1 16:09:45 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 13h 44m 55s, session: 0s) on dantooine at -3386 3638 - playerLoggedIn
+Sat Mar  1 16:11:25 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 13h 46m 34s, session: 1m 39s) on dantooine at -3386 3638 - playerLoggedOut
+Sat Mar  1 17:00:35 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 13h 44m 55s, session: 0s) on dantooine at -3386 3638 - playerLoggedIn
+Sat Mar  1 17:10:15 2025 [ServerEventAutomation] playerEvent Slythe (account_id: 10, oid: 281475002060850, played: 11h 50m 47s, session: 0s) on naboo at -5031 4176 - playerLoggedIn
+Sat Mar  1 17:14:21 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 13h 46m 25s, session: 0s) on dantooine at -3386 3638 - playerLoggedOut
+Sat Mar  1 17:14:21 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 13h 46m 26s, session: 0s) on dantooine at -3386 3638 - playerLoggedIn
+Sat Mar  1 17:20:11 2025 [ServerEventAutomation] playerEvent Retri (account_id: 22, oid: 281475008880813, played: 3h 3m 51s, session: 0s) on dantooine at -3328 3670 - playerLoggedIn
+Sat Mar  1 17:27:19 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 13h 59m 24s, session: 12m 58s) on dantooine at -3386 3638 - playerLoggedOut
+Sat Mar  1 17:35:58 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 13h 59m 24s, session: 0s) on dantooine at -3386 3638 - playerLoggedOut
+Sat Mar  1 17:35:58 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 13h 59m 25s, session: 0s) on dantooine at -3386 3638 - playerLoggedIn
+Sat Mar  1 17:35:59 2025 [ServerEventAutomation] playerEvent Slythe (account_id: 10, oid: 281475002060850, played: 12h 8m 11s, session: 0s) on tatooine at 6639 4111 - playerLoggedOut
+Sat Mar  1 17:35:59 2025 [ServerEventAutomation] playerEvent Slythe (account_id: 10, oid: 281475002060850, played: 12h 8m 12s, session: 0s) on tatooine at 6639 4111 - playerLoggedIn
+Sat Mar  1 17:36:39 2025 [ServerEventAutomation] playerEvent Retri (account_id: 22, oid: 281475008880813, played: 3h 11m 18s, session: 0s) on tatooine at 6638 4107 - playerLoggedOut
+Sat Mar  1 17:36:39 2025 [ServerEventAutomation] playerEvent Retri (account_id: 22, oid: 281475008880813, played: 3h 11m 19s, session: 0s) on tatooine at 6638 4107 - playerLoggedIn
+Sat Mar  1 17:44:27 2025 [ServerEventAutomation] playerEvent Clam (account_id: 2, oid: 281475004645188, played: 1h 26m 55s, session: 0s) on dantooine at -623 2489 - playerLoggedIn
+Sat Mar  1 17:46:02 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 14h 9m 29s, session: 10m 3s) on dantooine at -3386 3640 - playerLoggedOut
+Sat Mar  1 17:57:56 2025 [ServerEventAutomation] playerEvent Slythe (account_id: 10, oid: 281475002060850, played: 12h 30m 8s, session: 21m 56s) on tatooine at 6471 3490 - playerLoggedOut
+Sat Mar  1 17:58:01 2025 [ServerEventAutomation] playerEvent Halle' (account_id: 10, oid: 281474997622683, played: 3d 6h 52m 42s, session: 0s) on dantooine at -3258 3698 - playerLoggedIn
+Sat Mar  1 18:02:45 2025 [ServerEventAutomation] playerEvent Clam (account_id: 2, oid: 281475004645188, played: 1h 45m 12s, session: 18m 16s) on tatooine at 6206 4364 - playerLoggedOut
+Sat Mar  1 18:02:48 2025 [ServerEventAutomation] playerEvent Booti (account_id: 2, oid: 281474995628647, played: 1d 8h 47m 24s, session: 0s) on yavin4 at -5539 4913 - playerLoggedIn
+Sat Mar  1 18:11:07 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 14h 9m 30s, session: 0s) on dantooine at -3386 3640 - playerLoggedIn
+Sat Mar  1 18:19:08 2025 [ServerEventAutomation] playerEvent Retri (account_id: 22, oid: 281475008880813, played: 3h 53m 46s, session: 42m 26s) on tatooine at 1301 3142 - playerLoggedOut
+Sat Mar  1 18:19:24 2025 [ServerEventAutomation] playerEvent Halle' (account_id: 10, oid: 281474997622683, played: 3d 7h 14m 4s, session: 21m 21s) on dantooine at -3264 3695 - playerLoggedOut
+Sat Mar  1 18:19:27 2025 [ServerEventAutomation] playerEvent Crary (account_id: 10, oid: 281474997605468, played: 19h 8m 39s, session: 0s) on dantooine at -3258 3698 - playerLoggedIn
+Sat Mar  1 18:20:05 2025 [ServerEventAutomation] playerEvent Sava (account_id: 10, oid: 281474999973468, played: 1d 12h 53m 52s, session: 0s) on dantooine at -3265 3695 - playerLoggedIn
+Sat Mar  1 18:20:11 2025 [ServerEventAutomation] playerEvent Calme (account_id: 22, oid: 281475009144002, played: 34m 25s, session: 0s) on naboo at -4879 4146 - playerLoggedIn
+Sat Mar  1 18:23:13 2025 [ServerEventAutomation] playerEvent Booti (account_id: 2, oid: 281474995628647, played: 1d 9h 7m 48s, session: 20m 23s) on naboo at -5996 4287 - playerLoggedOut
+Sat Mar  1 18:23:46 2025 [ServerEventAutomation] playerEvent Booti (account_id: 2, oid: 281474995628647, played: 1d 9h 7m 49s, session: 0s) on naboo at -5996 4287 - playerLoggedIn
+Sat Mar  1 18:24:06 2025 [ServerEventAutomation] playerEvent Booti (account_id: 2, oid: 281474995628647, played: 1d 9h 8m 9s, session: 20s) on naboo at -5996 4287 - playerLoggedOut
+Sat Mar  1 18:29:01 2025 [ServerEventAutomation] playerEvent Booti (account_id: 2, oid: 281474995628647, played: 1d 9h 8m 10s, session: 0s) on naboo at -5996 4287 - playerLoggedIn
+Sat Mar  1 18:30:09 2025 [ServerEventAutomation] playerEvent Sava (account_id: 10, oid: 281474999973468, played: 1d 13h 3m 55s, session: 10m 2s) on dantooine at -3264 3694 - playerLoggedOut
+Sat Mar  1 18:30:11 2025 [ServerEventAutomation] playerEvent Calme (account_id: 22, oid: 281475009144002, played: 44m 23s, session: 9m 58s) on naboo at -4885 4153 - playerLoggedOut
+Sat Mar  1 18:30:26 2025 [ServerEventAutomation] playerEvent Crary (account_id: 10, oid: 281474997605468, played: 19h 19m 38s, session: 10m 58s) on dantooine at -3266 3694 - playerLoggedOut
+Sat Mar  1 18:31:44 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 14h 30m 5s, session: 20m 35s) on dantooine at -3265 3696 - playerLoggedOut
+Sat Mar  1 18:31:50 2025 [ServerEventAutomation] playerEvent Booti (account_id: 2, oid: 281474995628647, played: 1d 9h 10m 59s, session: 2m 48s) on rori at 3691 -6403 - playerLoggedOut
+Sat Mar  1 18:32:34 2025 [ServerEventAutomation] playerEvent Matterhorn (account_id: 53, oid: 281475009011923, played: 3h 17m 10s, session: 0s) on rori at 3677 -6405 - playerLoggedIn
+Sat Mar  1 18:35:42 2025 [ServerEventAutomation] playerEvent Matterhorn (account_id: 53, oid: 281475009011923, played: 3h 20m 17s, session: 3m 7s) on rori at 3689 -6426 - playerLoggedOut
+Sat Mar  1 18:35:45 2025 [ServerEventAutomation] playerEvent Matterhorn (account_id: 53, oid: 281475009011923, played: 3h 20m 18s, session: 0s) on rori at 3689 -6426 - playerLoggedIn
+Sat Mar  1 19:19:08 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 14h 30m 6s, session: 0s) on dantooine at -3265 3696 - playerLoggedIn
+Sat Mar  1 19:23:02 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 14h 30m 6s, session: 0s) on dantooine at -3265 3696 - playerLoggedIn
+Sat Mar  1 19:27:52 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 14h 34m 54s, session: 4m 48s) on dantooine at -3265 3696 - playerLoggedOut
+Sat Mar  1 20:13:07 2025 [ServerEventAutomation] playerEvent Matterhorn (account_id: 53, oid: 281475009011923, played: 3h 20m 10s, session: 0s) on rori at 3689 -6426 - playerLoggedOut
+Sat Mar  1 20:13:07 2025 [ServerEventAutomation] playerEvent Matterhorn (account_id: 53, oid: 281475009011923, played: 3h 20m 11s, session: 0s) on rori at 3689 -6426 - playerLoggedIn
+Sat Mar  1 20:15:03 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 14h 30m 6s, session: 0s) on dantooine at -3265 3696 - playerLoggedIn
+Sat Mar  1 20:16:20 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 14h 31m 22s, session: 1m 16s) on dantooine at -3265 3696 - playerLoggedOut
+Sat Mar  1 20:18:54 2025 [ServerEventAutomation] playerEvent Matterhorn (account_id: 53, oid: 281475009011923, played: 3h 20m 10s, session: 0s) on rori at 3689 -6426 - playerLoggedOut
+Sat Mar  1 20:18:55 2025 [ServerEventAutomation] playerEvent Matterhorn (account_id: 53, oid: 281475009011923, played: 3h 20m 11s, session: 0s) on rori at 3689 -6426 - playerLoggedIn
+Sat Mar  1 20:23:18 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 14h 30m 6s, session: 0s) on dantooine at -3265 3696 - playerLoggedIn
+Sat Mar  1 20:25:00 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 14h 31m 47s, session: 1m 41s) on dantooine at -3265 3696 - playerLoggedOut
+Sat Mar  1 22:11:27 2025 [ServerEventAutomation] playerEvent Xarina (account_id: 47, oid: 281475004346703, played: 8h 3m 59s, session: 0s) on dathomir at -507 5329 - playerLoggedIn
+Sat Mar  1 22:21:31 2025 [ServerEventAutomation] playerEvent Dakkon (account_id: 62, oid: 281475008658719, played: 17h 1m 22s, session: 0s) on tatooine at -2894 2135 - playerLoggedIn
+Sat Mar  1 22:58:56 2025 [ServerEventAutomation] playerEvent Xarina (account_id: 47, oid: 281475004346703, played: 8h 51m 26s, session: 47m 27s) on naboo at 4877 6086 - playerLoggedOut
+Sat Mar  1 23:26:16 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 62, oid: 281475008877954, played: 22h 24m 16s, session: 0s) on tatooine at -2903 2132 - playerLoggedIn
+Sat Mar  1 23:37:04 2025 [ServerEventAutomation] playerEvent Dakkon (account_id: 62, oid: 281475008658719, played: 18h 16m 52s, session: 1h 15m 30s) on tatooine at 6175 3599 - playerLoggedOut
+Sun Mar  2 02:29:36 2025 [ServerEventAutomation] playerEvent Eternis (account_id: 62, oid: 281475008877954, played: 1d 1h 27m 25s, session: 3h 3m 8s) on dathomir at -80 -1595 - playerLoggedOut
+Sun Mar  2 02:29:42 2025 [ServerEventAutomation] playerEvent Dakkon (account_id: 62, oid: 281475008658719, played: 18h 16m 53s, session: 0s) on tatooine at 6175 3599 - playerLoggedIn
+Sun Mar  2 02:37:34 2025 [ServerEventAutomation] playerEvent Dakkon (account_id: 62, oid: 281475008658719, played: 18h 24m 45s, session: 7m 51s) on tatooine at 6179 3590 - playerLoggedOut
+Sun Mar  2 05:19:55 2025 [ServerEventAutomation] playerEvent Row'ena (account_id: 39, oid: 281475003584246, played: 1d 14h 48m 3s, session: 0s) on corellia at -77 -5780 - playerLoggedIn
+Sun Mar  2 05:29:22 2025 [ServerEventAutomation] playerEvent Row'ena (account_id: 39, oid: 281475003584246, played: 1d 14h 57m 30s, session: 9m 26s) on corellia at -77 -5705 - playerLoggedOut
+Sun Mar  2 05:29:34 2025 [ServerEventAutomation] playerEvent Kit (account_id: 39, oid: 281475003592840, played: 11h 41m 8s, session: 0s) on corellia at -88 -5700 - playerLoggedIn
+Sun Mar  2 05:47:15 2025 [ServerEventAutomation] playerEvent Kit (account_id: 39, oid: 281475003592840, played: 11h 58m 48s, session: 17m 40s) on corellia at -89 -5864 - playerLoggedOut
+Sun Mar  2 06:38:56 2025 [ServerEventAutomation] playerEvent Xarina (account_id: 47, oid: 281475004346703, played: 8h 51m 27s, session: 0s) on naboo at 4877 6086 - playerLoggedIn
+Sun Mar  2 08:05:10 2025 [ServerEventAutomation] playerEvent Xarina (account_id: 47, oid: 281475004346703, played: 9h 50m 39s, session: 0s) on corellia at -6498 6053 - playerLoggedOut
+Sun Mar  2 08:12:05 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 14h 30m 6s, session: 0s) on dantooine at -3265 3696 - playerLoggedIn
+Sun Mar  2 08:15:44 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 14h 33m 44s, session: 3m 38s) on dantooine at -3265 3696 - playerLoggedOut
+Sun Mar  2 08:49:45 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 14h 30m 6s, session: 0s) on dantooine at -3265 3696 - playerLoggedIn
+Sun Mar  2 08:50:24 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 14h 30m 45s, session: 39s) on dantooine at -3265 3696 - playerLoggedOut
+Sun Mar  2 09:37:05 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 14h 30m 6s, session: 0s) on dantooine at -3265 3696 - playerLoggedIn
+Sun Mar  2 09:39:11 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 14h 32m 11s, session: 2m 5s) on dantooine at -3265 3696 - playerLoggedOut
+Sun Mar  2 09:44:23 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 14h 30m 6s, session: 0s) on dantooine at -3265 3696 - playerLoggedIn
+Sun Mar  2 09:49:27 2025 [ServerEventAutomation] playerEvent Sotwa (account_id: 1, oid: 281475009144128, played: 45m 9s, session: 0s) on corellia at -6942 4519 - playerLoggedIn
+Sun Mar  2 10:07:03 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475009012775, played: 14h 52m 46s, session: 22m 39s) on dantooine at -3270 3721 - playerLoggedOut
+Sun Mar  2 10:09:16 2025 [ServerEventAutomation] playerEvent Sotwa (account_id: 1, oid: 281475009144128, played: 1h 4m 57s, session: 19m 48s) on dantooine at -3268 3715 - playerLoggedOut
+Sun Mar  2 10:19:56 2025 [ServerEventAutomation] playerEvent Sotwa (account_id: 1, oid: 281475009144128, played: 1h 4m 57s, session: 0s) on dantooine at -3268 3715 - playerLoggedOut
+Sun Mar  2 10:19:56 2025 [ServerEventAutomation] playerEvent Sotwa (account_id: 1, oid: 281475009144128, played: 1h 4m 58s, session: 0s) on dantooine at -3268 3715 - playerLoggedIn
+Sun Mar  2 10:21:53 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475010389391, played: 1s, session: 0s) on tutorial at 4849 -113 - playerLoggedIn
+Sun Mar  2 10:37:48 2025 [ServerEventAutomation] playerEvent Sotwa (account_id: 1, oid: 281475009144128, played: 1h 22m 49s, session: 17m 51s) on dantooine at -3286 3708 - playerLoggedOut
+Sun Mar  2 10:42:34 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475010389391, played: 16m 41s, session: 0s) on corellia at -85 -5712 - playerLoggedOut
+Sun Mar  2 10:44:38 2025 [ServerEventAutomation] playerEvent Sotwa (account_id: 1, oid: 281475009144128, played: 1h 22m 49s, session: 0s) on dantooine at -3286 3708 - playerLoggedOut
+Sun Mar  2 10:44:38 2025 [ServerEventAutomation] playerEvent Sotwa (account_id: 1, oid: 281475009144128, played: 1h 22m 50s, session: 0s) on dantooine at -3286 3708 - playerLoggedIn
+Sun Mar  2 10:45:34 2025 [ServerEventAutomation] playerEvent Sotwa (account_id: 1, oid: 281475009144128, played: 1h 23m 45s, session: 55s) on dantooine at -3286 3708 - playerLoggedOut
+Sun Mar  2 11:02:10 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475010389391, played: 16m 41s, session: 0s) on corellia at -85 -5712 - playerLoggedOut
+Sun Mar  2 11:05:42 2025 [ServerEventAutomation] playerEvent Sotwa (account_id: 1, oid: 281475009144128, played: 1h 22m 49s, session: 0s) on dantooine at -3286 3708 - playerLoggedOut
+Sun Mar  2 11:05:42 2025 [ServerEventAutomation] playerEvent Sotwa (account_id: 1, oid: 281475009144128, played: 1h 22m 50s, session: 0s) on dantooine at -3286 3708 - playerLoggedIn
+Sun Mar  2 11:06:35 2025 [ServerEventAutomation] playerEvent Sotwa (account_id: 1, oid: 281475009144128, played: 1h 23m 43s, session: 53s) on dantooine at -3286 3708 - playerLoggedOut
+Sun Mar  2 11:06:40 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475010389391, played: 16m 42s, session: 0s) on corellia at -85 -5712 - playerLoggedIn
+Sun Mar  2 11:12:38 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475010389391, played: 22m 41s, session: 5m 58s) on corellia at -85 -5712 - playerLoggedOut
+Sun Mar  2 11:18:35 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475010389391, played: 22m 41s, session: 0s) on corellia at -85 -5712 - playerLoggedOut
+Sun Mar  2 11:21:02 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475010389391, played: 22m 42s, session: 0s) on corellia at -85 -5712 - playerLoggedIn
+Sun Mar  2 11:28:32 2025 [ServerEventAutomation] playerEvent Sotwa (account_id: 1, oid: 281475009144128, played: 1h 23m 44s, session: 0s) on dantooine at -3286 3708 - playerLoggedIn
+Sun Mar  2 11:48:41 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475010389391, played: 31m 46s, session: 0s) on corellia at -86 -5710 - playerLoggedOut
+Sun Mar  2 11:50:23 2025 [ServerEventAutomation] playerEvent Sotwa (account_id: 1, oid: 281475009144128, played: 1h 25m 19s, session: 0s) on dantooine at -3286 3708 - playerLoggedOut
+Sun Mar  2 11:50:23 2025 [ServerEventAutomation] playerEvent Sotwa (account_id: 1, oid: 281475009144128, played: 1h 25m 20s, session: 0s) on dantooine at -3286 3708 - playerLoggedIn
+Sun Mar  2 11:54:14 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475010389391, played: 31m 46s, session: 0s) on corellia at -86 -5710 - playerLoggedOut
+Sun Mar  2 12:01:46 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475010389391, played: 31m 46s, session: 0s) on corellia at -86 -5710 - playerLoggedOut
+Sun Mar  2 12:03:20 2025 [ServerEventAutomation] playerEvent Sotwa (account_id: 1, oid: 281475009144128, played: 1h 25m 19s, session: 0s) on dantooine at -3286 3708 - playerLoggedOut
+Sun Mar  2 12:03:20 2025 [ServerEventAutomation] playerEvent Sotwa (account_id: 1, oid: 281475009144128, played: 1h 25m 20s, session: 0s) on dantooine at -3286 3708 - playerLoggedIn
+Sun Mar  2 12:05:20 2025 [ServerEventAutomation] playerEvent Sotwa (account_id: 1, oid: 281475009144128, played: 1h 27m 20s, session: 2m 0s) on dantooine at -3286 3708 - playerLoggedOut
+Sun Mar  2 12:05:24 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475010389391, played: 31m 47s, session: 0s) on corellia at -86 -5710 - playerLoggedIn
+Sun Mar  2 12:10:47 2025 [ServerEventAutomation] playerEvent Xarina (account_id: 47, oid: 281475004346703, played: 9h 50m 40s, session: 0s) on corellia at -6498 6053 - playerLoggedIn
+Sun Mar  2 12:12:37 2025 [ServerEventAutomation] playerEvent Matterhorn (account_id: 53, oid: 281475009011923, played: 3h 20m 10s, session: 0s) on rori at 3689 -6426 - playerLoggedOut
+Sun Mar  2 12:12:37 2025 [ServerEventAutomation] playerEvent Matterhorn (account_id: 53, oid: 281475009011923, played: 3h 20m 11s, session: 0s) on rori at 3689 -6426 - playerLoggedIn
+Sun Mar  2 12:18:30 2025 [ServerEventAutomation] playerEvent Matterhorn (account_id: 53, oid: 281475009011923, played: 3h 26m 4s, session: 5m 53s) on rori at 3568 -6488 - playerLoggedOut
+Sun Mar  2 12:18:30 2025 [ServerEventAutomation] playerEvent Matterhorn (account_id: 53, oid: 281475009011923, played: 3h 26m 4s, session: 5m 53s) on rori at 3568 -6488 - playerLoggedOut
+Sun Mar  2 12:21:29 2025 [ServerEventAutomation] playerEvent Matterhorn (account_id: 53, oid: 281475009011923, played: 3h 26m 5s, session: 0s) on rori at 3568 -6488 - playerLoggedIn
+Sun Mar  2 12:43:19 2025 [ServerEventAutomation] playerEvent Matterhorn (account_id: 53, oid: 281475009011923, played: 3h 47m 54s, session: 21m 49s) on rori at 3678 -6404 - playerLoggedOut
+Sun Mar  2 13:35:57 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475010389391, played: 2h 2m 18s, session: 1h 30m 30s) on corellia at -85 -5709 - playerLoggedOut
+Sun Mar  2 13:39:13 2025 [ServerEventAutomation] playerEvent Xarina (account_id: 47, oid: 281475004346703, played: 11h 19m 1s, session: 1h 28m 20s) on dathomir at -862 4342 - playerLoggedOut
+Sun Mar  2 13:40:11 2025 [ServerEventAutomation] playerEvent Retri (account_id: 22, oid: 281475008880813, played: 3h 53m 47s, session: 0s) on tatooine at 1301 3142 - playerLoggedIn
+Sun Mar  2 13:41:45 2025 [ServerEventAutomation] playerEvent Retri (account_id: 22, oid: 281475008880813, played: 3h 55m 21s, session: 1m 34s) on tatooine at 1301 3142 - playerLoggedOut
+Sun Mar  2 13:42:12 2025 [ServerEventAutomation] playerEvent Matterhorn (account_id: 53, oid: 281475009011923, played: 3h 47m 54s, session: 21m 49s) on  at -7 -18 - playerLoggedOut
+Sun Mar  2 14:37:57 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475010389391, played: 2h 2m 19s, session: 0s) on corellia at -85 -5709 - playerLoggedIn
+Sun Mar  2 15:37:47 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475010389391, played: 3h 2m 8s, session: 59m 49s) on corellia at -85 -5709 - playerLoggedOut
+Sun Mar  2 15:41:26 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475010389391, played: 3h 0m 40s, session: 0s) on corellia at -85 -5709 - playerLoggedOut
+Sun Mar  2 15:45:14 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 10h 37m 47s, session: 0s) on naboo at 4895 6096 - playerLoggedIn
+Sun Mar  2 15:49:28 2025 [ServerEventAutomation] playerEvent Xarina (account_id: 47, oid: 281475004346703, played: 11h 19m 2s, session: 0s) on dathomir at -862 4342 - playerLoggedIn
+Sun Mar  2 15:50:08 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475010389391, played: 3h 0m 41s, session: 0s) on corellia at -85 -5709 - playerLoggedIn
+Sun Mar  2 16:30:16 2025 [ServerEventAutomation] playerEvent Madrox (account_id: 46, oid: 281475008524313, played: 11h 22m 46s, session: 44m 59s) on yavin4 at 5082 233 - playerLoggedOut
+Sun Mar  2 16:30:26 2025 [ServerEventAutomation] playerEvent Xarina (account_id: 47, oid: 281475004346703, played: 11h 59m 59s, session: 40m 56s) on yavin4 at 5115 319 - playerLoggedOut
+Sun Mar  2 16:30:34 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475010389391, played: 3h 41m 6s, session: 40m 24s) on corellia at -91 -5710 - playerLoggedOut
+Sun Mar  2 16:34:10 2025 [ServerEventAutomation] playerEvent Revan (account_id: 1, oid: 281475010389391, played: 3h 41m 6s, session: 0s) on corellia at -91 -5710 - playerLoggedOut

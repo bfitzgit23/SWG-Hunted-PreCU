@@ -103,3 +103,10 @@ stack traceback:
 	[C]: in function 'readScreenPlayData'
 	scripts/screenplays/jedi/jedi_trials.lua:404: in method 'getCurrentTrial'
 	scripts/managers/jedi/hologrind_jedi_manager.lua:207: in main chunk
+Fri Feb 28 14:12:57 2025 [1740773577042 msec] (681 s) Thread 9 - [DirectorManagerLuaInstance] ERROR - Invalid council type in JediTrials:unlockJediKnight
+stack traceback:
+	[C]: in function 'printLuaError'
+	scripts/screenplays/jedi/jedi_trials.lua:189: in method 'unlockJediKnight'
+	scripts/screenplays/jedi/knight/knight_trials.lua:51: in method 'startNextKnightTrial'
+	scripts/screenplays/jedi/knight/knight_trials.lua:291: in function <scripts/screenplays/jedi/knight/knight_trials.lua:210>
+Sat Mar  1 12:00:38 2025 [1740852038084 msec] (79142 s) Thread 44 - [DirectorManagerLuaInstance] ERROR - ERROR: Could not load Defector Quests correctly. Quest line will not function correctly. -  Source: @scripts/screenplays/tasks/defector_quests/defector_quest.lua  Line: 258
